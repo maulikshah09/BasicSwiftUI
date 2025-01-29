@@ -22,7 +22,7 @@
 		4DADC4502D4A88A600809279 /* Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC44F2D4A88A600809279 /* Stacks.swift */; };
 		4DADC4522D4AA36E00809279 /* Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4512D4AA36D00809279 /* Padding.swift */; };
 		4DADC4542D4AAA0F00809279 /* Spacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4532D4AAA0F00809279 /* Spacer.swift */; };
-		4DADC4562D4AAFDD00809279 /* InitEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4552D4AAFDD00809279 /* InitEnum.swift */; };
+		4DADC4562D4AAFDD00809279 /* InitAndEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4552D4AAFDD00809279 /* InitAndEnum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,7 +42,7 @@
 		4DADC44F2D4A88A600809279 /* Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stacks.swift; sourceTree = "<group>"; };
 		4DADC4512D4AA36D00809279 /* Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Padding.swift; sourceTree = "<group>"; };
 		4DADC4532D4AAA0F00809279 /* Spacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacer.swift; sourceTree = "<group>"; };
-		4DADC4552D4AAFDD00809279 /* InitEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitEnum.swift; sourceTree = "<group>"; };
+		4DADC4552D4AAFDD00809279 /* InitAndEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitAndEnum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,7 +98,7 @@
 				4DADC44F2D4A88A600809279 /* Stacks.swift */,
 				4DADC4512D4AA36D00809279 /* Padding.swift */,
 				4DADC4532D4AAA0F00809279 /* Spacer.swift */,
-				4DADC4552D4AAFDD00809279 /* InitEnum.swift */,
+				4DADC4552D4AAFDD00809279 /* InitAndEnum.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -180,7 +180,7 @@
 				4DADC44A2D4A7A9200809279 /* Background(Main).swift in Sources */,
 				4DADC44E2D4A7D3100809279 /* Overlay(Main).swift in Sources */,
 				4DADC4542D4AAA0F00809279 /* Spacer.swift in Sources */,
-				4DADC4562D4AAFDD00809279 /* InitEnum.swift in Sources */,
+				4DADC4562D4AAFDD00809279 /* InitAndEnum.swift in Sources */,
 				4DADC4482D4A738A00809279 /* Frame(Main).swift in Sources */,
 				4DADC4392D4A658100809279 /* Colors.swift in Sources */,
 				4DADC4502D4A88A600809279 /* Stacks.swift in Sources */,
