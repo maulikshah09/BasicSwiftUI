@@ -16,7 +16,9 @@
 		4DADC4402D4A658100809279 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DADC4312D4A658100809279 /* Assets.xcassets */; };
 		4DADC4422D4A65DA00809279 /* SystemIcons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4412D4A65DA00809279 /* SystemIcons.swift */; };
 		4DADC4462D4A6DD500809279 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4452D4A6DD500809279 /* Images.swift */; };
-		4DADC4482D4A738A00809279 /* Frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4472D4A738A00809279 /* Frame.swift */; };
+		4DADC4482D4A738A00809279 /* Frame(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4472D4A738A00809279 /* Frame(Main).swift */; };
+		4DADC44A2D4A7A9200809279 /* Background(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4492D4A7A9200809279 /* Background(Main).swift */; };
+		4DADC44E2D4A7D3100809279 /* Overlay(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC44D2D4A7D3100809279 /* Overlay(Main).swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,7 +32,9 @@
 		4DADC4372D4A658100809279 /* TextDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextDemo.swift; sourceTree = "<group>"; };
 		4DADC4412D4A65DA00809279 /* SystemIcons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemIcons.swift; sourceTree = "<group>"; };
 		4DADC4452D4A6DD500809279 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
-		4DADC4472D4A738A00809279 /* Frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame.swift; sourceTree = "<group>"; };
+		4DADC4472D4A738A00809279 /* Frame(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Frame(Main).swift"; sourceTree = "<group>"; };
+		4DADC4492D4A7A9200809279 /* Background(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Background(Main).swift"; sourceTree = "<group>"; };
+		4DADC44D2D4A7D3100809279 /* Overlay(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Overlay(Main).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +84,9 @@
 				4DADC4342D4A658100809279 /* Gradient.swift */,
 				4DADC4412D4A65DA00809279 /* SystemIcons.swift */,
 				4DADC4452D4A6DD500809279 /* Images.swift */,
-				4DADC4472D4A738A00809279 /* Frame.swift */,
+				4DADC4472D4A738A00809279 /* Frame(Main).swift */,
+				4DADC4492D4A7A9200809279 /* Background(Main).swift */,
+				4DADC44D2D4A7D3100809279 /* Overlay(Main).swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -159,7 +165,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4DADC4462D4A6DD500809279 /* Images.swift in Sources */,
-				4DADC4482D4A738A00809279 /* Frame.swift in Sources */,
+				4DADC44A2D4A7A9200809279 /* Background(Main).swift in Sources */,
+				4DADC44E2D4A7D3100809279 /* Overlay(Main).swift in Sources */,
+				4DADC4482D4A738A00809279 /* Frame(Main).swift in Sources */,
 				4DADC4392D4A658100809279 /* Colors.swift in Sources */,
 				4DADC4422D4A65DA00809279 /* SystemIcons.swift in Sources */,
 				4DADC43B2D4A658100809279 /* Gradient.swift in Sources */,
