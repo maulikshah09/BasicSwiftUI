@@ -6,17 +6,32 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		4DADC4392D4A658100809279 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4322D4A658100809279 /* Colors.swift */; };
+		4DADC43B2D4A658100809279 /* Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4342D4A658100809279 /* Gradient.swift */; };
+		4DADC43C2D4A658100809279 /* LearningSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4352D4A658100809279 /* LearningSwiftUIApp.swift */; };
+		4DADC43D2D4A658100809279 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4362D4A658100809279 /* Shapes.swift */; };
+		4DADC43E2D4A658100809279 /* TextDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4372D4A658100809279 /* TextDemo.swift */; };
+		4DADC43F2D4A658100809279 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DADC42F2D4A658100809279 /* Preview Assets.xcassets */; };
+		4DADC4402D4A658100809279 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DADC4312D4A658100809279 /* Assets.xcassets */; };
+		4DADC4422D4A65DA00809279 /* SystemIcons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4412D4A65DA00809279 /* SystemIcons.swift */; };
+		4DADC4462D4A6DD500809279 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4452D4A6DD500809279 /* Images.swift */; };
+		4DADC4482D4A738A00809279 /* Frame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4472D4A738A00809279 /* Frame.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		4DADC4052D4A63ED00809279 /* LearningSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4DADC42F2D4A658100809279 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4DADC4312D4A658100809279 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4DADC4322D4A658100809279 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		4DADC4342D4A658100809279 /* Gradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradient.swift; sourceTree = "<group>"; };
+		4DADC4352D4A658100809279 /* LearningSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningSwiftUIApp.swift; sourceTree = "<group>"; };
+		4DADC4362D4A658100809279 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
+		4DADC4372D4A658100809279 /* TextDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextDemo.swift; sourceTree = "<group>"; };
+		4DADC4412D4A65DA00809279 /* SystemIcons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemIcons.swift; sourceTree = "<group>"; };
+		4DADC4452D4A6DD500809279 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
+		4DADC4472D4A738A00809279 /* Frame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		4DADC4072D4A63ED00809279 /* LearningSwiftUI */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = LearningSwiftUI;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		4DADC4022D4A63ED00809279 /* Frameworks */ = {
@@ -32,7 +47,7 @@
 		4DADC3FC2D4A63ED00809279 = {
 			isa = PBXGroup;
 			children = (
-				4DADC4072D4A63ED00809279 /* LearningSwiftUI */,
+				4DADC4382D4A658100809279 /* LearningSwiftUI */,
 				4DADC4062D4A63ED00809279 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -43,6 +58,31 @@
 				4DADC4052D4A63ED00809279 /* LearningSwiftUI.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		4DADC4302D4A658100809279 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				4DADC42F2D4A658100809279 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4DADC4382D4A658100809279 /* LearningSwiftUI */ = {
+			isa = PBXGroup;
+			children = (
+				4DADC4302D4A658100809279 /* Preview Content */,
+				4DADC4312D4A658100809279 /* Assets.xcassets */,
+				4DADC4352D4A658100809279 /* LearningSwiftUIApp.swift */,
+				4DADC4372D4A658100809279 /* TextDemo.swift */,
+				4DADC4362D4A658100809279 /* Shapes.swift */,
+				4DADC4322D4A658100809279 /* Colors.swift */,
+				4DADC4342D4A658100809279 /* Gradient.swift */,
+				4DADC4412D4A65DA00809279 /* SystemIcons.swift */,
+				4DADC4452D4A6DD500809279 /* Images.swift */,
+				4DADC4472D4A738A00809279 /* Frame.swift */,
+			);
+			path = LearningSwiftUI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -59,9 +99,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				4DADC4072D4A63ED00809279 /* LearningSwiftUI */,
 			);
 			name = LearningSwiftUI;
 			packageProductDependencies = (
@@ -109,6 +146,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4DADC43F2D4A658100809279 /* Preview Assets.xcassets in Resources */,
+				4DADC4402D4A658100809279 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,6 +158,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4DADC4462D4A6DD500809279 /* Images.swift in Sources */,
+				4DADC4482D4A738A00809279 /* Frame.swift in Sources */,
+				4DADC4392D4A658100809279 /* Colors.swift in Sources */,
+				4DADC4422D4A65DA00809279 /* SystemIcons.swift in Sources */,
+				4DADC43B2D4A658100809279 /* Gradient.swift in Sources */,
+				4DADC43C2D4A658100809279 /* LearningSwiftUIApp.swift in Sources */,
+				4DADC43D2D4A658100809279 /* Shapes.swift in Sources */,
+				4DADC43E2D4A658100809279 /* TextDemo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
