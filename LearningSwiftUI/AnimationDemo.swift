@@ -13,7 +13,14 @@ struct AnimationDemo: View {
     var body: some View {
         VStack {
             Button("Animate View") {
-                     isAnimated.toggle()
+                withAnimation(
+                    Animation
+                        .default
+                        .repeatCount(10,
+                                autoreverses: true)){
+                    isAnimated.toggle()
+                }
+                   
             }
             Spacer()
             RoundedRectangle(cornerRadius: isAnimated ? 50 : 25)
@@ -23,9 +30,9 @@ struct AnimationDemo: View {
                     height: isAnimated ? 100 :300)
                 .rotationEffect(Angle(degrees: isAnimated ? 360 : 0))
                 .offset(y: isAnimated ? 300 : 0)
-                .animation(.default
-                           .repeatForever()
-                           , value: isAnimated)
+//                .animation(.default
+//                           .repeatForever()
+//                           , value: isAnimated)
                 
                  
             Spacer()
