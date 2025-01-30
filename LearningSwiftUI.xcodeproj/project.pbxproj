@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D4F359A2D4B8D4600C095B5 /* StateDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4F35992D4B8D4600C095B5 /* StateDemo.swift */; };
+		4D4F359C2D4B8D6500C095B5 /* BindingDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4F359B2D4B8D6500C095B5 /* BindingDemo.swift */; };
 		4DADC4392D4A658100809279 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4322D4A658100809279 /* Colors.swift */; };
 		4DADC43B2D4A658100809279 /* Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4342D4A658100809279 /* Gradient.swift */; };
 		4DADC43C2D4A658100809279 /* LearningSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4352D4A658100809279 /* LearningSwiftUIApp.swift */; };
@@ -26,9 +28,18 @@
 		4DADC4582D4AB72900809279 /* ForEachLoop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4572D4AB72900809279 /* ForEachLoop.swift */; };
 		4DADC45A2D4ABC6A00809279 /* ScrollViewDemo1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4592D4ABC6A00809279 /* ScrollViewDemo1.swift */; };
 		4DADC45C2D4AC01500809279 /* ScrollViewDemo2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC45B2D4AC01500809279 /* ScrollViewDemo2.swift */; };
+		4DADC45E2D4B472200809279 /* GridItemsFixed(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC45D2D4B472200809279 /* GridItemsFixed(Main).swift */; };
+		4DADC4602D4B57CC00809279 /* GridItemFlexible(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC45F2D4B57CC00809279 /* GridItemFlexible(Main).swift */; };
+		4DADC4622D4B591500809279 /* GridItemsAdaptive(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4612D4B591500809279 /* GridItemsAdaptive(Main).swift */; };
+		4DADC4642D4B5B0700809279 /* GridItemsFixed2(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4632D4B5B0700809279 /* GridItemsFixed2(Main).swift */; };
+		4DADC4662D4B68D100809279 /* SafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4652D4B68D100809279 /* SafeArea.swift */; };
+		4DADC4682D4B7AFB00809279 /* SafeAreaDemo2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4672D4B7AFB00809279 /* SafeAreaDemo2.swift */; };
+		4DADC46A2D4B7F7600809279 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4692D4B7F7600809279 /* Buttons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D4F35992D4B8D4600C095B5 /* StateDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateDemo.swift; sourceTree = "<group>"; };
+		4D4F359B2D4B8D6500C095B5 /* BindingDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingDemo.swift; sourceTree = "<group>"; };
 		4DADC4052D4A63ED00809279 /* LearningSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DADC42F2D4A658100809279 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4DADC4312D4A658100809279 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -49,6 +60,13 @@
 		4DADC4572D4AB72900809279 /* ForEachLoop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoop.swift; sourceTree = "<group>"; };
 		4DADC4592D4ABC6A00809279 /* ScrollViewDemo1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewDemo1.swift; sourceTree = "<group>"; };
 		4DADC45B2D4AC01500809279 /* ScrollViewDemo2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewDemo2.swift; sourceTree = "<group>"; };
+		4DADC45D2D4B472200809279 /* GridItemsFixed(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GridItemsFixed(Main).swift"; sourceTree = "<group>"; };
+		4DADC45F2D4B57CC00809279 /* GridItemFlexible(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GridItemFlexible(Main).swift"; sourceTree = "<group>"; };
+		4DADC4612D4B591500809279 /* GridItemsAdaptive(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GridItemsAdaptive(Main).swift"; sourceTree = "<group>"; };
+		4DADC4632D4B5B0700809279 /* GridItemsFixed2(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GridItemsFixed2(Main).swift"; sourceTree = "<group>"; };
+		4DADC4652D4B68D100809279 /* SafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeArea.swift; sourceTree = "<group>"; };
+		4DADC4672D4B7AFB00809279 /* SafeAreaDemo2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaDemo2.swift; sourceTree = "<group>"; };
+		4DADC4692D4B7F7600809279 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +126,15 @@
 				4DADC4572D4AB72900809279 /* ForEachLoop.swift */,
 				4DADC4592D4ABC6A00809279 /* ScrollViewDemo1.swift */,
 				4DADC45B2D4AC01500809279 /* ScrollViewDemo2.swift */,
+				4DADC45D2D4B472200809279 /* GridItemsFixed(Main).swift */,
+				4DADC45F2D4B57CC00809279 /* GridItemFlexible(Main).swift */,
+				4DADC4612D4B591500809279 /* GridItemsAdaptive(Main).swift */,
+				4DADC4632D4B5B0700809279 /* GridItemsFixed2(Main).swift */,
+				4DADC4652D4B68D100809279 /* SafeArea.swift */,
+				4DADC4672D4B7AFB00809279 /* SafeAreaDemo2.swift */,
+				4DADC4692D4B7F7600809279 /* Buttons.swift */,
+				4D4F35992D4B8D4600C095B5 /* StateDemo.swift */,
+				4D4F359B2D4B8D6500C095B5 /* BindingDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -190,17 +217,26 @@
 				4DADC44A2D4A7A9200809279 /* Background(Main).swift in Sources */,
 				4DADC44E2D4A7D3100809279 /* Overlay(Main).swift in Sources */,
 				4DADC4582D4AB72900809279 /* ForEachLoop.swift in Sources */,
+				4DADC4662D4B68D100809279 /* SafeArea.swift in Sources */,
 				4DADC4542D4AAA0F00809279 /* Spacer.swift in Sources */,
+				4D4F359C2D4B8D6500C095B5 /* BindingDemo.swift in Sources */,
+				4DADC4682D4B7AFB00809279 /* SafeAreaDemo2.swift in Sources */,
+				4DADC45E2D4B472200809279 /* GridItemsFixed(Main).swift in Sources */,
 				4DADC45A2D4ABC6A00809279 /* ScrollViewDemo1.swift in Sources */,
 				4DADC4562D4AAFDD00809279 /* InitAndEnum.swift in Sources */,
 				4DADC4482D4A738A00809279 /* Frame(Main).swift in Sources */,
 				4DADC4392D4A658100809279 /* Colors.swift in Sources */,
 				4DADC4502D4A88A600809279 /* Stacks.swift in Sources */,
+				4DADC4622D4B591500809279 /* GridItemsAdaptive(Main).swift in Sources */,
+				4DADC46A2D4B7F7600809279 /* Buttons.swift in Sources */,
 				4DADC4422D4A65DA00809279 /* SystemIcons.swift in Sources */,
 				4DADC43B2D4A658100809279 /* Gradient.swift in Sources */,
 				4DADC43C2D4A658100809279 /* LearningSwiftUIApp.swift in Sources */,
 				4DADC43D2D4A658100809279 /* Shapes.swift in Sources */,
+				4DADC4642D4B5B0700809279 /* GridItemsFixed2(Main).swift in Sources */,
+				4DADC4602D4B57CC00809279 /* GridItemFlexible(Main).swift in Sources */,
 				4DADC43E2D4A658100809279 /* TextDemo.swift in Sources */,
+				4D4F359A2D4B8D4600C095B5 /* StateDemo.swift in Sources */,
 				4DADC4522D4AA36E00809279 /* Padding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -25,7 +25,7 @@ struct Init: View {
     
     // but if you want to do some operation then you have to write. check below example.
     
-    init( count: Int, fruit: Fruit) {
+    init(count: Int, fruit: Fruit) {
         self.count = count
         self.title = fruit == .apple ? "Apple" : "Orange"
         self.backgroundColor = fruit  == .apple ? .red : .orange

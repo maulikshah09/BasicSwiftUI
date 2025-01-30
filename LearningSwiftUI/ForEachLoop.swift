@@ -12,22 +12,35 @@ struct ForEachLoop: View {
     let myString : String = "Hello"
     
     var body: some View {
-        VStack{
-            ForEach(0..<10) { index in
-                HStack{
-                    Circle()
-                        .frame(width: 30,height: 30)
-                    Text("Hi: \(index)")
+        
+        
+        VStack(spacing: 20){
+
+             VStack (spacing: 8){
+                 ForEach(0..<10) { index in
+                     HStack{
+                         Circle()
+                             .frame(width: 30,height: 30)
+                         Text("Hi: \(index)")
+                     }
+                 }
+             }
+           
+            
+            
+            VStack (spacing: 8){
+                ForEach(data.indices,id: \.self) { index in
+                    Text("\(data[index]) : \(index)")
                 }
             }
             
-            
-            ForEach(data.indices) { index in
-                Text("\(data[index]) : \(index)")
+            VStack (spacing: 8){
+                ForEach(Array(data.enumerated()), id: \.offset) { index, value in
+                    Text("\(value) : \(index)")
+                }
+                
             }
             
-
-     
         }
     }
 }
