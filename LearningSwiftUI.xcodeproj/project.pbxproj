@@ -139,8 +139,8 @@
 				4DADC4692D4B7F7600809279 /* Buttons.swift */,
 				4D4F35992D4B8D4600C095B5 /* StateDemo.swift */,
 				4D4F359D2D4B9D6300C095B5 /* ExtractedFunctions.swift */,
-				4D4F359B2D4B8D6500C095B5 /* BindingDemo.swift */,
 				4D4F359F2D4BA0C000C095B5 /* ExtractSubviews.swift */,
+				4D4F359B2D4B8D6500C095B5 /* BindingDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";

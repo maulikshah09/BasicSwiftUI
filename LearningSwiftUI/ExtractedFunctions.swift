@@ -22,6 +22,8 @@ struct ExtractedFunctions: View {
     }
     
     // so many UI then make something like this.
+    
+    /// if it static then it is ok otherwise extract subview you have to do. neext chepter
     var contentLayer : some View{
         VStack{
             Text("Title")
