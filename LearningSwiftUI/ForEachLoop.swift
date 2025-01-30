@@ -12,8 +12,6 @@ struct ForEachLoop: View {
     let myString : String = "Hello"
     
     var body: some View {
-        
-        
         VStack(spacing: 20){
 
              VStack (spacing: 8){

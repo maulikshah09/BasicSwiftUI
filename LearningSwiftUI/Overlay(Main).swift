@@ -19,17 +19,18 @@ struct Overlay: View {
             ).background(
                 Circle()
                     .fill(Color.purple)
-                    .frame(width: 110,height: 110,alignment: .center)
+                    .frame(width: 110,height: 110)
             )
             
             .padding(.all,50)
+        
       
         Rectangle()
             .frame(width:100, height: 100)
             .overlay(
                 Rectangle()
                     .fill(.blue)
-                    .frame(width:50, height: 50, alignment: .center)
+                    .frame(width:50, height: 50)
                 , alignment: .topLeading
             )
             .background(
