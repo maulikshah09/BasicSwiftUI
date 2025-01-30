@@ -18,7 +18,7 @@ struct ExtractSubviews: View {
     }
     
     var content : some View {
-        HStack{
+        HStack(){
             MyItem(title: "Apple", count: 10, color:.red)
             MyItem(title: "Oranges", count: 30, color:.orange)
             MyItem(title: "Bananas", count: 50, color:.yellow)
