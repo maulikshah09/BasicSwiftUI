@@ -16,8 +16,7 @@ struct AnimationDemo: View {
                 withAnimation(
                     Animation
                         .default
-                        .repeatCount(10,
-                                autoreverses: true)){
+                        .repeatForever(autoreverses: true)){
                     isAnimated.toggle()
                 }
                    
