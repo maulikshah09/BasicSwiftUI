@@ -49,7 +49,7 @@ struct ListDemo: View {
                     //Second way
                     .onMove(perform: move)
                 }
-                .listRowBackground(.pink)
+                .listRowBackground(Color.yellow)
                 
                 Section(header: Text("Vegitables")) {
                     ForEach(veggies,id: \.self){ veggies in
