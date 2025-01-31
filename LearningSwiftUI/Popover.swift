@@ -31,19 +31,19 @@ struct Popover: View {
 //            }
             
             //Method 2 - transition
-//            if showNewScreen{
-//                NewScreen(showNewScreen: $showNewScreen)
-//                    .padding(.top,100)
-//                    .transition(.move(edge: .bottom))
-//                
-//            }
+            if showNewScreen{
+                NewScreen(showNewScreen: $showNewScreen)
+                    .padding(.top,100)
+                    .transition(.move(edge: .bottom))
+                
+            }
             
             
             // Method 3 - Animation Offset
-            NewScreen(showNewScreen: $showNewScreen)
-                .padding(.top,100)
-                .offset(y : showNewScreen ? 0 : UIScreen.main.bounds.height)
-                .animation(.spring, value: showNewScreen)
+//            NewScreen(showNewScreen: $showNewScreen)
+//                .padding(.top,100)
+//                .offset(y : showNewScreen ? 0 : UIScreen.main.bounds.height)
+//                .animation(.spring, value: showNewScreen)
             
             
         }

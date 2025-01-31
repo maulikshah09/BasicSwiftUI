@@ -47,7 +47,7 @@ struct SecondScreen : View {
                 .ignoresSafeArea()
             
             Button {
-               // showSheet = false
+                showSheet = false
               //  presentationMode.wrappedValue.dismiss()
             } label: {
                 Image(systemName: "xmark")
