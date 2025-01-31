@@ -12,6 +12,7 @@
 		4D2AE5ED2D4D478B00B42697 /* ToggleDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5EC2D4D478B00B42697 /* ToggleDemo.swift */; };
 		4D2AE5EF2D4D497900B42697 /* ColorPickerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5EE2D4D497900B42697 /* ColorPickerDemo.swift */; };
 		4D2AE5F12D4D505800B42697 /* StepperDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5F02D4D505800B42697 /* StepperDemo.swift */; };
+		4D2AE5F32D4D557400B42697 /* Slider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5F22D4D557400B42697 /* Slider.swift */; };
 		4D3D3DC42D4CC9AD0041E451 /* ListDemo(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3D3DC32D4CC9AD0041E451 /* ListDemo(Main).swift */; };
 		4D3D3DC62D4CCE850041E451 /* NavigationStackDemo(Main)).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3D3DC52D4CCE840041E451 /* NavigationStackDemo(Main)).swift */; };
 		4D3D3DCA2D4CDA4C0041E451 /* ToolBarDemo(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3D3DC92D4CDA4C0041E451 /* ToolBarDemo(Main).swift */; };
@@ -63,6 +64,7 @@
 		4D2AE5EC2D4D478B00B42697 /* ToggleDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleDemo.swift; sourceTree = "<group>"; };
 		4D2AE5EE2D4D497900B42697 /* ColorPickerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerDemo.swift; sourceTree = "<group>"; };
 		4D2AE5F02D4D505800B42697 /* StepperDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperDemo.swift; sourceTree = "<group>"; };
+		4D2AE5F22D4D557400B42697 /* Slider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slider.swift; sourceTree = "<group>"; };
 		4D3D3DC32D4CC9AD0041E451 /* ListDemo(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ListDemo(Main).swift"; sourceTree = "<group>"; };
 		4D3D3DC52D4CCE840041E451 /* NavigationStackDemo(Main)).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NavigationStackDemo(Main)).swift"; sourceTree = "<group>"; };
 		4D3D3DC92D4CDA4C0041E451 /* ToolBarDemo(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToolBarDemo(Main).swift"; sourceTree = "<group>"; };
@@ -195,6 +197,7 @@
 				4D2AE5EC2D4D478B00B42697 /* ToggleDemo.swift */,
 				4D2AE5EE2D4D497900B42697 /* ColorPickerDemo.swift */,
 				4D2AE5F02D4D505800B42697 /* StepperDemo.swift */,
+				4D2AE5F22D4D557400B42697 /* Slider.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -299,6 +302,7 @@
 				4D3D3DCA2D4CDA4C0041E451 /* ToolBarDemo(Main).swift in Sources */,
 				4DADC4502D4A88A600809279 /* Stacks.swift in Sources */,
 				4DADC4622D4B591500809279 /* GridItemsAdaptive(Main).swift in Sources */,
+				4D2AE5F32D4D557400B42697 /* Slider.swift in Sources */,
 				4D4F35AA2D4BC8BA00C095B5 /* TransitionAnimation(Main).swift in Sources */,
 				4D4F35A82D4BBFE600C095B5 /* AnimationCurve(Main).swift in Sources */,
 				4D2AE5F12D4D505800B42697 /* StepperDemo.swift in Sources */,
