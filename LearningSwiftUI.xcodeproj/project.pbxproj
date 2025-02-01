@@ -35,6 +35,7 @@
 		4D4F35B02D4BD40700C095B5 /* Popover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4F35AF2D4BD40700C095B5 /* Popover.swift */; };
 		4D684A782D4DDD29009C33D5 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D684A772D4DDD29009C33D5 /* TabBarView.swift */; };
 		4D684A7A2D4DE2FC009C33D5 /* PageViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D684A792D4DE2FC009C33D5 /* PageViewDemo.swift */; };
+		4D684A7C2D4DE736009C33D5 /* DarkModeDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D684A7B2D4DE736009C33D5 /* DarkModeDemo.swift */; };
 		4DADC4392D4A658100809279 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4322D4A658100809279 /* Colors.swift */; };
 		4DADC43B2D4A658100809279 /* Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4342D4A658100809279 /* Gradient.swift */; };
 		4DADC43C2D4A658100809279 /* LearningSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4352D4A658100809279 /* LearningSwiftUIApp.swift */; };
@@ -92,6 +93,7 @@
 		4D4F35AF2D4BD40700C095B5 /* Popover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Popover.swift; sourceTree = "<group>"; };
 		4D684A772D4DDD29009C33D5 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
 		4D684A792D4DE2FC009C33D5 /* PageViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewDemo.swift; sourceTree = "<group>"; };
+		4D684A7B2D4DE736009C33D5 /* DarkModeDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeDemo.swift; sourceTree = "<group>"; };
 		4DADC4052D4A63ED00809279 /* LearningSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DADC42F2D4A658100809279 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4DADC4312D4A658100809279 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -209,10 +211,11 @@
 				4D2AE5F02D4D505800B42697 /* StepperDemo.swift */,
 				4D2AE5F22D4D557400B42697 /* SliderDemo.swift */,
 				4D2AE5F42D4D5C9000B42697 /* DatePickerDemo.swift */,
+				4D2AE5F82D4D69D600B42697 /* SegmentDemo.swift */,
 				4D2AE5F62D4D61EE00B42697 /* PickerDemo.swift */,
 				4D684A772D4DDD29009C33D5 /* TabBarView.swift */,
 				4D684A792D4DE2FC009C33D5 /* PageViewDemo.swift */,
-				4D2AE5F82D4D69D600B42697 /* SegmentDemo.swift */,
+				4D684A7B2D4DE736009C33D5 /* DarkModeDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -317,6 +320,7 @@
 				4DADC4392D4A658100809279 /* Colors.swift in Sources */,
 				4D3D3DC42D4CC9AD0041E451 /* ListDemo(Main).swift in Sources */,
 				4D2AE5F52D4D5C9000B42697 /* DatePickerDemo.swift in Sources */,
+				4D684A7C2D4DE736009C33D5 /* DarkModeDemo.swift in Sources */,
 				4D4F35A22D4BA84600C095B5 /* Conditional.swift in Sources */,
 				4D3D3DCA2D4CDA4C0041E451 /* ToolBarDemo(Main).swift in Sources */,
 				4D684A782D4DDD29009C33D5 /* TabBarView.swift in Sources */,
