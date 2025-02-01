@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D13B82E2D4E7B580028E258 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D13B82D2D4E7B580028E258 /* ModelData.swift */; };
+		4D13B8302D4E8AA80028E258 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D13B82F2D4E8AA80028E258 /* ViewModel.swift */; };
+		4D13B8322D4EA36E0028E258 /* EnviorementObjectDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D13B8312D4EA36E0028E258 /* EnviorementObjectDemo.swift */; };
 		4D2AE5E92D4D3A6D00B42697 /* TextFieldDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5E82D4D3A6D00B42697 /* TextFieldDemo.swift */; };
 		4D2AE5EB2D4D437A00B42697 /* TextEditorDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5EA2D4D437A00B42697 /* TextEditorDemo.swift */; };
 		4D2AE5ED2D4D478B00B42697 /* ToggleDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5EC2D4D478B00B42697 /* ToggleDemo.swift */; };
@@ -67,6 +70,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D13B82D2D4E7B580028E258 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		4D13B82F2D4E8AA80028E258 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		4D13B8312D4EA36E0028E258 /* EnviorementObjectDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnviorementObjectDemo.swift; sourceTree = "<group>"; };
 		4D2AE5E82D4D3A6D00B42697 /* TextFieldDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldDemo.swift; sourceTree = "<group>"; };
 		4D2AE5EA2D4D437A00B42697 /* TextEditorDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorDemo.swift; sourceTree = "<group>"; };
 		4D2AE5EC2D4D478B00B42697 /* ToggleDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleDemo.swift; sourceTree = "<group>"; };
@@ -222,6 +228,9 @@
 				4D684A7B2D4DE736009C33D5 /* DarkModeDemo.swift */,
 				4D6CDB5F2D4E598E001257D0 /* Onappear.swift */,
 				4D6CDB612D4E6FDA001257D0 /* TapGesture.swift */,
+				4D13B82D2D4E7B580028E258 /* ModelData.swift */,
+				4D13B82F2D4E8AA80028E258 /* ViewModel.swift */,
+				4D13B8312D4EA36E0028E258 /* EnviorementObjectDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -306,12 +315,15 @@
 				4D2AE5E92D4D3A6D00B42697 /* TextFieldDemo.swift in Sources */,
 				4D3D3DCE2D4D0A8A0041E451 /* ActionSheetDemo(Main).swift in Sources */,
 				4D4F35A02D4BA0C000C095B5 /* ExtractSubviews.swift in Sources */,
+				4D13B8302D4E8AA80028E258 /* ViewModel.swift in Sources */,
 				4DADC44E2D4A7D3100809279 /* Overlay(Main).swift in Sources */,
 				4D4F35A62D4BB03E00C095B5 /* AnimationDemo(Main).swift in Sources */,
 				4DADC4582D4AB72900809279 /* ForEachLoop.swift in Sources */,
+				4D13B8322D4EA36E0028E258 /* EnviorementObjectDemo.swift in Sources */,
 				4D2AE5ED2D4D478B00B42697 /* ToggleDemo.swift in Sources */,
 				4DADC4662D4B68D100809279 /* SafeArea.swift in Sources */,
 				4D3D3DCC2D4CFD110041E451 /* AlertView(Main).swift in Sources */,
+				4D13B82E2D4E7B580028E258 /* ModelData.swift in Sources */,
 				4DADC4542D4AAA0F00809279 /* Spacer.swift in Sources */,
 				4D4F359C2D4B8D6500C095B5 /* BindingDemo.swift in Sources */,
 				4D3D3DC62D4CCE850041E451 /* NavigationStackDemo(Main)).swift in Sources */,
