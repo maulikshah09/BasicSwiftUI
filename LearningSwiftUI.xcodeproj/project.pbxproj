@@ -76,6 +76,10 @@
 		4DB185F12D5155AA00A41C94 /* TabViewBadgesDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185F02D5155AA00A41C94 /* TabViewBadgesDemo.swift */; };
 		4DB185F32D51576600A41C94 /* ListViewBadgesDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185F22D51576600A41C94 /* ListViewBadgesDemo.swift */; };
 		4DB185F52D5157D600A41C94 /* FocusStateDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185F42D5157D600A41C94 /* FocusStateDemo.swift */; };
+		4DB185F72D515F9600A41C94 /* SubmitTextFieldDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185F62D515F9600A41C94 /* SubmitTextFieldDemo.swift */; };
+		4DB185F92D5160EE00A41C94 /* SafeAreaInsetsDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185F82D5160EE00A41C94 /* SafeAreaInsetsDemo.swift */; };
+		4DB185FB2D5163C800A41C94 /* GroupDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185FA2D5163C800A41C94 /* GroupDemo.swift */; };
+		4DB185FD2D51658800A41C94 /* MenuDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185FC2D51658800A41C94 /* MenuDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -149,6 +153,10 @@
 		4DB185F02D5155AA00A41C94 /* TabViewBadgesDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBadgesDemo.swift; sourceTree = "<group>"; };
 		4DB185F22D51576600A41C94 /* ListViewBadgesDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewBadgesDemo.swift; sourceTree = "<group>"; };
 		4DB185F42D5157D600A41C94 /* FocusStateDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateDemo.swift; sourceTree = "<group>"; };
+		4DB185F62D515F9600A41C94 /* SubmitTextFieldDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextFieldDemo.swift; sourceTree = "<group>"; };
+		4DB185F82D5160EE00A41C94 /* SafeAreaInsetsDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaInsetsDemo.swift; sourceTree = "<group>"; };
+		4DB185FA2D5163C800A41C94 /* GroupDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupDemo.swift; sourceTree = "<group>"; };
+		4DB185FC2D51658800A41C94 /* MenuDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -233,6 +241,7 @@
 				4D3D3DCD2D4D0A8A0041E451 /* ActionSheetDemo(Main).swift */,
 				4D3D3DCF2D4D14930041E451 /* ContentmenuDemo.swift */,
 				4D2AE5E82D4D3A6D00B42697 /* TextFieldDemo.swift */,
+				4DB185F62D515F9600A41C94 /* SubmitTextFieldDemo.swift */,
 				4D2AE5EA2D4D437A00B42697 /* TextEditorDemo.swift */,
 				4D2AE5EC2D4D478B00B42697 /* ToggleDemo.swift */,
 				4D2AE5EE2D4D497900B42697 /* ColorPickerDemo.swift */,
@@ -258,6 +267,9 @@
 				4DB185F02D5155AA00A41C94 /* TabViewBadgesDemo.swift */,
 				4DB185F22D51576600A41C94 /* ListViewBadgesDemo.swift */,
 				4DB185F42D5157D600A41C94 /* FocusStateDemo.swift */,
+				4DB185F82D5160EE00A41C94 /* SafeAreaInsetsDemo.swift */,
+				4DB185FA2D5163C800A41C94 /* GroupDemo.swift */,
+				4DB185FC2D51658800A41C94 /* MenuDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -337,6 +349,7 @@
 			files = (
 				4D082E142D4FD5B40078DB5B /* Appstorage.swift in Sources */,
 				4DADC45C2D4AC01500809279 /* ScrollViewDemo2.swift in Sources */,
+				4DB185FD2D51658800A41C94 /* MenuDemo.swift in Sources */,
 				4D2AE5F92D4D69D600B42697 /* SegmentDemo.swift in Sources */,
 				4DADC4462D4A6DD500809279 /* Images.swift in Sources */,
 				4DADC44A2D4A7A9200809279 /* Background(Main).swift in Sources */,
@@ -367,6 +380,7 @@
 				4DB185EF2D51525F00A41C94 /* SwipeActionDemo.swift in Sources */,
 				4D6CDB622D4E6FDA001257D0 /* TapGesture.swift in Sources */,
 				4DADC4562D4AAFDD00809279 /* InitAndEnum.swift in Sources */,
+				4DB185F92D5160EE00A41C94 /* SafeAreaInsetsDemo.swift in Sources */,
 				4DADC4482D4A738A00809279 /* Frame(Main).swift in Sources */,
 				4DADC4392D4A658100809279 /* Colors.swift in Sources */,
 				4DB185EB2D514CF000A41C94 /* TextSelectionDemo.swift in Sources */,
@@ -382,6 +396,7 @@
 				4DADC4622D4B591500809279 /* GridItemsAdaptive(Main).swift in Sources */,
 				4D2AE5F32D4D557400B42697 /* SliderDemo.swift in Sources */,
 				4D4F35AA2D4BC8BA00C095B5 /* TransitionAnimation(Main).swift in Sources */,
+				4DB185FB2D5163C800A41C94 /* GroupDemo.swift in Sources */,
 				4D4F35A82D4BBFE600C095B5 /* AnimationCurve(Main).swift in Sources */,
 				4D2AE5F12D4D505800B42697 /* StepperDemo.swift in Sources */,
 				4DADC46A2D4B7F7600809279 /* Buttons.swift in Sources */,
@@ -401,6 +416,7 @@
 				4DADC43E2D4A658100809279 /* TextDemo.swift in Sources */,
 				4D082E492D501A260078DB5B /* AsyncImageDemo.swift in Sources */,
 				4D4F359A2D4B8D4600C095B5 /* StateDemo.swift in Sources */,
+				4DB185F72D515F9600A41C94 /* SubmitTextFieldDemo.swift in Sources */,
 				4DADC4522D4AA36E00809279 /* Padding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
