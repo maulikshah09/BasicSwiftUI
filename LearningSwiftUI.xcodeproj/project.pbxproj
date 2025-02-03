@@ -71,6 +71,8 @@
 		4DADC46A2D4B7F7600809279 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4692D4B7F7600809279 /* Buttons.swift */; };
 		4DB185E92D513C2600A41C94 /* BackgroundMaterial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185E82D513C2600A41C94 /* BackgroundMaterial.swift */; };
 		4DB185EB2D514CF000A41C94 /* TextSelectionDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185EA2D514CF000A41C94 /* TextSelectionDemo.swift */; };
+		4DB185ED2D514F5800A41C94 /* ButtonStyleDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185EC2D514F5800A41C94 /* ButtonStyleDemo.swift */; };
+		4DB185EF2D51525F00A41C94 /* SwipeActionDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185EE2D51525F00A41C94 /* SwipeActionDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -139,6 +141,8 @@
 		4DADC4692D4B7F7600809279 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 		4DB185E82D513C2600A41C94 /* BackgroundMaterial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterial.swift; sourceTree = "<group>"; };
 		4DB185EA2D514CF000A41C94 /* TextSelectionDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionDemo.swift; sourceTree = "<group>"; };
+		4DB185EC2D514F5800A41C94 /* ButtonStyleDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleDemo.swift; sourceTree = "<group>"; };
+		4DB185EE2D51525F00A41C94 /* SwipeActionDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -243,6 +247,8 @@
 				4D13B8312D4EA36E0028E258 /* EnviorementObjectDemo(Main).swift */,
 				4DB185E82D513C2600A41C94 /* BackgroundMaterial.swift */,
 				4DB185EA2D514CF000A41C94 /* TextSelectionDemo.swift */,
+				4DB185EC2D514F5800A41C94 /* ButtonStyleDemo.swift */,
+				4DB185EE2D51525F00A41C94 /* SwipeActionDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -334,6 +340,7 @@
 				4DADC4582D4AB72900809279 /* ForEachLoop.swift in Sources */,
 				4D13B8322D4EA36E0028E258 /* EnviorementObjectDemo(Main).swift in Sources */,
 				4D2AE5ED2D4D478B00B42697 /* ToggleDemo.swift in Sources */,
+				4DB185ED2D514F5800A41C94 /* ButtonStyleDemo.swift in Sources */,
 				4DADC4662D4B68D100809279 /* SafeArea.swift in Sources */,
 				4D3D3DCC2D4CFD110041E451 /* AlertView(Main).swift in Sources */,
 				4D13B82E2D4E7B580028E258 /* ModelData.swift in Sources */,
@@ -346,6 +353,7 @@
 				4DADC45E2D4B472200809279 /* GridItemsFixed(Main).swift in Sources */,
 				4D4F35A42D4BACFA00C095B5 /* TurneryOperator.swift in Sources */,
 				4DADC45A2D4ABC6A00809279 /* ScrollViewDemo1.swift in Sources */,
+				4DB185EF2D51525F00A41C94 /* SwipeActionDemo.swift in Sources */,
 				4D6CDB622D4E6FDA001257D0 /* TapGesture.swift in Sources */,
 				4DADC4562D4AAFDD00809279 /* InitAndEnum.swift in Sources */,
 				4DADC4482D4A738A00809279 /* Frame(Main).swift in Sources */,
