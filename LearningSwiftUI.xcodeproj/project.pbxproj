@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4D082E142D4FD5B40078DB5B /* Appstorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D082E132D4FD5B40078DB5B /* Appstorage.swift */; };
+		4D082E492D501A260078DB5B /* AsyncImageDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D082E482D501A260078DB5B /* AsyncImageDemo.swift */; };
 		4D13B82E2D4E7B580028E258 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D13B82D2D4E7B580028E258 /* ModelData.swift */; };
 		4D13B8302D4E8AA80028E258 /* ViewModel(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D13B82F2D4E8AA80028E258 /* ViewModel(Main).swift */; };
 		4D13B8322D4EA36E0028E258 /* EnviorementObjectDemo(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D13B8312D4EA36E0028E258 /* EnviorementObjectDemo(Main).swift */; };
@@ -68,10 +69,13 @@
 		4DADC4662D4B68D100809279 /* SafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4652D4B68D100809279 /* SafeArea.swift */; };
 		4DADC4682D4B7AFB00809279 /* SafeAreaDemo2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4672D4B7AFB00809279 /* SafeAreaDemo2.swift */; };
 		4DADC46A2D4B7F7600809279 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4692D4B7F7600809279 /* Buttons.swift */; };
+		4DB185E92D513C2600A41C94 /* BackgroundMaterial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185E82D513C2600A41C94 /* BackgroundMaterial.swift */; };
+		4DB185EB2D514CF000A41C94 /* TextSelectionDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185EA2D514CF000A41C94 /* TextSelectionDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		4D082E132D4FD5B40078DB5B /* Appstorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appstorage.swift; sourceTree = "<group>"; };
+		4D082E482D501A260078DB5B /* AsyncImageDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageDemo.swift; sourceTree = "<group>"; };
 		4D13B82D2D4E7B580028E258 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		4D13B82F2D4E8AA80028E258 /* ViewModel(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewModel(Main).swift"; sourceTree = "<group>"; };
 		4D13B8312D4EA36E0028E258 /* EnviorementObjectDemo(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EnviorementObjectDemo(Main).swift"; sourceTree = "<group>"; };
@@ -133,6 +137,8 @@
 		4DADC4652D4B68D100809279 /* SafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeArea.swift; sourceTree = "<group>"; };
 		4DADC4672D4B7AFB00809279 /* SafeAreaDemo2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaDemo2.swift; sourceTree = "<group>"; };
 		4DADC4692D4B7F7600809279 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
+		4DB185E82D513C2600A41C94 /* BackgroundMaterial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterial.swift; sourceTree = "<group>"; };
+		4DB185EA2D514CF000A41C94 /* TextSelectionDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -233,7 +239,10 @@
 				4D13B82D2D4E7B580028E258 /* ModelData.swift */,
 				4D13B82F2D4E8AA80028E258 /* ViewModel(Main).swift */,
 				4D082E132D4FD5B40078DB5B /* Appstorage.swift */,
+				4D082E482D501A260078DB5B /* AsyncImageDemo.swift */,
 				4D13B8312D4EA36E0028E258 /* EnviorementObjectDemo(Main).swift */,
+				4DB185E82D513C2600A41C94 /* BackgroundMaterial.swift */,
+				4DB185EA2D514CF000A41C94 /* TextSelectionDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -341,6 +350,7 @@
 				4DADC4562D4AAFDD00809279 /* InitAndEnum.swift in Sources */,
 				4DADC4482D4A738A00809279 /* Frame(Main).swift in Sources */,
 				4DADC4392D4A658100809279 /* Colors.swift in Sources */,
+				4DB185EB2D514CF000A41C94 /* TextSelectionDemo.swift in Sources */,
 				4D3D3DC42D4CC9AD0041E451 /* ListDemo(Main).swift in Sources */,
 				4D2AE5F52D4D5C9000B42697 /* DatePickerDemo.swift in Sources */,
 				4D684A7C2D4DE736009C33D5 /* DarkModeDemo.swift in Sources */,
@@ -365,9 +375,11 @@
 				4D4F35AC2D4BCEA000C095B5 /* Sheets.swift in Sources */,
 				4DADC43D2D4A658100809279 /* Shapes.swift in Sources */,
 				4DADC4642D4B5B0700809279 /* GridItemsFixed2(Main).swift in Sources */,
+				4DB185E92D513C2600A41C94 /* BackgroundMaterial.swift in Sources */,
 				4DADC4602D4B57CC00809279 /* GridItemFlexible(Main).swift in Sources */,
 				4D2AE5EB2D4D437A00B42697 /* TextEditorDemo.swift in Sources */,
 				4DADC43E2D4A658100809279 /* TextDemo.swift in Sources */,
+				4D082E492D501A260078DB5B /* AsyncImageDemo.swift in Sources */,
 				4D4F359A2D4B8D4600C095B5 /* StateDemo.swift in Sources */,
 				4DADC4522D4AA36E00809279 /* Padding.swift in Sources */,
 			);
