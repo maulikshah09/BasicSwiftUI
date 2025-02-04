@@ -37,12 +37,16 @@
 		4D4F35A82D4BBFE600C095B5 /* AnimationCurve(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4F35A72D4BBFE600C095B5 /* AnimationCurve(Main).swift */; };
 		4D4F35AA2D4BC8BA00C095B5 /* TransitionAnimation(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4F35A92D4BC8BA00C095B5 /* TransitionAnimation(Main).swift */; };
 		4D4F35AC2D4BCEA000C095B5 /* Sheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4F35AB2D4BCEA000C095B5 /* Sheets.swift */; };
-		4D4F35B02D4BD40700C095B5 /* Popover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4F35AF2D4BD40700C095B5 /* Popover.swift */; };
+		4D4F35B02D4BD40700C095B5 /* CustomPopover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4F35AF2D4BD40700C095B5 /* CustomPopover.swift */; };
 		4D684A782D4DDD29009C33D5 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D684A772D4DDD29009C33D5 /* TabBarView.swift */; };
 		4D684A7A2D4DE2FC009C33D5 /* PageViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D684A792D4DE2FC009C33D5 /* PageViewDemo.swift */; };
 		4D684A7C2D4DE736009C33D5 /* DarkModeDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D684A7B2D4DE736009C33D5 /* DarkModeDemo.swift */; };
 		4D6CDB602D4E598E001257D0 /* Onappear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6CDB5F2D4E598E001257D0 /* Onappear.swift */; };
 		4D6CDB622D4E6FDA001257D0 /* TapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6CDB612D4E6FDA001257D0 /* TapGesture.swift */; };
+		4D92A1A72D5299FF00EB74E6 /* AnimationUpdateDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1A62D5299FF00EB74E6 /* AnimationUpdateDemo.swift */; };
+		4D92A1A92D52A07900EB74E6 /* NativePopOverDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1A82D52A07900EB74E6 /* NativePopOverDemo.swift */; };
+		4D92A1AB2D52A68200EB74E6 /* AnyLayoutDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1AA2D52A68200EB74E6 /* AnyLayoutDemo.swift */; };
+		4D9E236C2D527640006329E8 /* ResizableSheetsDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9E236B2D527640006329E8 /* ResizableSheetsDemo.swift */; };
 		4DADC4392D4A658100809279 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4322D4A658100809279 /* Colors.swift */; };
 		4DADC43B2D4A658100809279 /* Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4342D4A658100809279 /* Gradient.swift */; };
 		4DADC43C2D4A658100809279 /* LearningSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4352D4A658100809279 /* LearningSwiftUIApp.swift */; };
@@ -113,12 +117,16 @@
 		4D4F35A72D4BBFE600C095B5 /* AnimationCurve(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AnimationCurve(Main).swift"; sourceTree = "<group>"; };
 		4D4F35A92D4BC8BA00C095B5 /* TransitionAnimation(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TransitionAnimation(Main).swift"; sourceTree = "<group>"; };
 		4D4F35AB2D4BCEA000C095B5 /* Sheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheets.swift; sourceTree = "<group>"; };
-		4D4F35AF2D4BD40700C095B5 /* Popover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Popover.swift; sourceTree = "<group>"; };
+		4D4F35AF2D4BD40700C095B5 /* CustomPopover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPopover.swift; sourceTree = "<group>"; };
 		4D684A772D4DDD29009C33D5 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
 		4D684A792D4DE2FC009C33D5 /* PageViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewDemo.swift; sourceTree = "<group>"; };
 		4D684A7B2D4DE736009C33D5 /* DarkModeDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeDemo.swift; sourceTree = "<group>"; };
 		4D6CDB5F2D4E598E001257D0 /* Onappear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onappear.swift; sourceTree = "<group>"; };
 		4D6CDB612D4E6FDA001257D0 /* TapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesture.swift; sourceTree = "<group>"; };
+		4D92A1A62D5299FF00EB74E6 /* AnimationUpdateDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUpdateDemo.swift; sourceTree = "<group>"; };
+		4D92A1A82D52A07900EB74E6 /* NativePopOverDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativePopOverDemo.swift; sourceTree = "<group>"; };
+		4D92A1AA2D52A68200EB74E6 /* AnyLayoutDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyLayoutDemo.swift; sourceTree = "<group>"; };
+		4D9E236B2D527640006329E8 /* ResizableSheetsDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetsDemo.swift; sourceTree = "<group>"; };
 		4DADC4052D4A63ED00809279 /* LearningSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DADC42F2D4A658100809279 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4DADC4312D4A658100809279 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -230,10 +238,11 @@
 				4D4F35A12D4BA84600C095B5 /* Conditional.swift */,
 				4D4F35A32D4BACFA00C095B5 /* TurneryOperator.swift */,
 				4D4F35A52D4BB03E00C095B5 /* AnimationDemo(Main).swift */,
+				4D92A1A62D5299FF00EB74E6 /* AnimationUpdateDemo.swift */,
 				4D4F35A72D4BBFE600C095B5 /* AnimationCurve(Main).swift */,
 				4D4F35A92D4BC8BA00C095B5 /* TransitionAnimation(Main).swift */,
 				4D4F35AB2D4BCEA000C095B5 /* Sheets.swift */,
-				4D4F35AF2D4BD40700C095B5 /* Popover.swift */,
+				4D4F35AF2D4BD40700C095B5 /* CustomPopover.swift */,
 				4D3D3DC52D4CCE840041E451 /* NavigationStackDemo(Main)).swift */,
 				4D3D3DC92D4CDA4C0041E451 /* ToolBarDemo(Main).swift */,
 				4D3D3DC32D4CC9AD0041E451 /* ListDemo(Main).swift */,
@@ -270,6 +279,9 @@
 				4DB185F82D5160EE00A41C94 /* SafeAreaInsetsDemo.swift */,
 				4DB185FA2D5163C800A41C94 /* GroupDemo.swift */,
 				4DB185FC2D51658800A41C94 /* MenuDemo.swift */,
+				4D9E236B2D527640006329E8 /* ResizableSheetsDemo.swift */,
+				4D92A1A82D52A07900EB74E6 /* NativePopOverDemo.swift */,
+				4D92A1AA2D52A68200EB74E6 /* AnyLayoutDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -353,6 +365,7 @@
 				4D2AE5F92D4D69D600B42697 /* SegmentDemo.swift in Sources */,
 				4DADC4462D4A6DD500809279 /* Images.swift in Sources */,
 				4DADC44A2D4A7A9200809279 /* Background(Main).swift in Sources */,
+				4D9E236C2D527640006329E8 /* ResizableSheetsDemo.swift in Sources */,
 				4D2AE5E92D4D3A6D00B42697 /* TextFieldDemo.swift in Sources */,
 				4D3D3DCE2D4D0A8A0041E451 /* ActionSheetDemo(Main).swift in Sources */,
 				4D4F35A02D4BA0C000C095B5 /* ExtractSubviews.swift in Sources */,
@@ -372,6 +385,7 @@
 				4D3D3DC62D4CCE850041E451 /* NavigationStackDemo(Main)).swift in Sources */,
 				4DADC4682D4B7AFB00809279 /* SafeAreaDemo2.swift in Sources */,
 				4D684A7A2D4DE2FC009C33D5 /* PageViewDemo.swift in Sources */,
+				4D92A1A72D5299FF00EB74E6 /* AnimationUpdateDemo.swift in Sources */,
 				4DB185F52D5157D600A41C94 /* FocusStateDemo.swift in Sources */,
 				4D2AE5F72D4D61EE00B42697 /* PickerDemo.swift in Sources */,
 				4DADC45E2D4B472200809279 /* GridItemsFixed(Main).swift in Sources */,
@@ -400,15 +414,17 @@
 				4D4F35A82D4BBFE600C095B5 /* AnimationCurve(Main).swift in Sources */,
 				4D2AE5F12D4D505800B42697 /* StepperDemo.swift in Sources */,
 				4DADC46A2D4B7F7600809279 /* Buttons.swift in Sources */,
+				4D92A1AB2D52A68200EB74E6 /* AnyLayoutDemo.swift in Sources */,
 				4DADC4422D4A65DA00809279 /* SystemIcons.swift in Sources */,
 				4DADC43B2D4A658100809279 /* Gradient.swift in Sources */,
 				4D2AE5EF2D4D497900B42697 /* ColorPickerDemo.swift in Sources */,
 				4D3D3DD02D4D14930041E451 /* ContentmenuDemo.swift in Sources */,
 				4DADC43C2D4A658100809279 /* LearningSwiftUIApp.swift in Sources */,
 				4D4F359E2D4B9D6300C095B5 /* ExtractedFunctions.swift in Sources */,
-				4D4F35B02D4BD40700C095B5 /* Popover.swift in Sources */,
+				4D4F35B02D4BD40700C095B5 /* CustomPopover.swift in Sources */,
 				4D4F35AC2D4BCEA000C095B5 /* Sheets.swift in Sources */,
 				4DADC43D2D4A658100809279 /* Shapes.swift in Sources */,
+				4D92A1A92D52A07900EB74E6 /* NativePopOverDemo.swift in Sources */,
 				4DADC4642D4B5B0700809279 /* GridItemsFixed2(Main).swift in Sources */,
 				4DB185E92D513C2600A41C94 /* BackgroundMaterial.swift in Sources */,
 				4DADC4602D4B57CC00809279 /* GridItemFlexible(Main).swift in Sources */,

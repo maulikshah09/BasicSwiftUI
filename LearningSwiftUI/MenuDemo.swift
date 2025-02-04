@@ -13,22 +13,16 @@ struct MenuDemo: View {
             Button("One") {
                 
             }
-          
+            
             Button("Two") {
                 
             }
-          
+            
             Button("Three") {
                 
             }
-            
-            Button("Four") {
-                
-            }
-        }
-    }
+            Button("Submit") {
+    
+            }}}
 }
 
-#Preview {
-    MenuDemo()
-}
