@@ -15,7 +15,7 @@ struct FruitModel : Identifiable{
 }
 
 // ViewModel
-
+//Observable // from ios 17
 class FruitViewModel : ObservableObject{
     
     @Published var arrFruits : [FruitModel] = []
