@@ -59,5 +59,5 @@ struct ScrollViewReaderDemo: View {
 }
 
 #Preview {
-    SwiftUIViewReaderDemo()
+    ScrollViewReaderDemo()
 }

@@ -96,7 +96,9 @@
 		4DCE09812D571A6700E1A953 /* DragGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE09802D571A6700E1A953 /* DragGestureDemo.swift */; };
 		4DCE09832D57C9CB00E1A953 /* DragGestureDemo2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE09822D57C9CB00E1A953 /* DragGestureDemo2.swift */; };
 		4DCE09852D57D42700E1A953 /* ScrollViewReaderDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE09842D57D42700E1A953 /* ScrollViewReaderDemo.swift */; };
-		4DCE09872D57DB8700E1A953 /* GeometryRaderDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE09862D57DB8700E1A953 /* GeometryRaderDemo.swift */; };
+		4DCE09872D57DB8700E1A953 /* GeometryReaderDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE09862D57DB8700E1A953 /* GeometryReaderDemo.swift */; };
+		4DCE09892D57E7BA00E1A953 /* GeometryReader2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE09882D57E7BA00E1A953 /* GeometryReader2.swift */; };
+		4DCE098B2D57EABD00E1A953 /* MultipleSheetsDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE098A2D57EABD00E1A953 /* MultipleSheetsDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -190,7 +192,9 @@
 		4DCE09802D571A6700E1A953 /* DragGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureDemo.swift; sourceTree = "<group>"; };
 		4DCE09822D57C9CB00E1A953 /* DragGestureDemo2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureDemo2.swift; sourceTree = "<group>"; };
 		4DCE09842D57D42700E1A953 /* ScrollViewReaderDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderDemo.swift; sourceTree = "<group>"; };
-		4DCE09862D57DB8700E1A953 /* GeometryRaderDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryRaderDemo.swift; sourceTree = "<group>"; };
+		4DCE09862D57DB8700E1A953 /* GeometryReaderDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderDemo.swift; sourceTree = "<group>"; };
+		4DCE09882D57E7BA00E1A953 /* GeometryReader2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReader2.swift; sourceTree = "<group>"; };
+		4DCE098A2D57EABD00E1A953 /* MultipleSheetsDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -320,7 +324,9 @@
 				4DCE09802D571A6700E1A953 /* DragGestureDemo.swift */,
 				4DCE09822D57C9CB00E1A953 /* DragGestureDemo2.swift */,
 				4DCE09842D57D42700E1A953 /* ScrollViewReaderDemo.swift */,
-				4DCE09862D57DB8700E1A953 /* GeometryRaderDemo.swift */,
+				4DCE09862D57DB8700E1A953 /* GeometryReaderDemo.swift */,
+				4DCE09882D57E7BA00E1A953 /* GeometryReader2.swift */,
+				4DCE098A2D57EABD00E1A953 /* MultipleSheetsDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -405,6 +411,7 @@
 				4D2AE5F92D4D69D600B42697 /* SegmentDemo.swift in Sources */,
 				4DADC4462D4A6DD500809279 /* Images.swift in Sources */,
 				4DADC44A2D4A7A9200809279 /* Background(Main).swift in Sources */,
+				4DCE09892D57E7BA00E1A953 /* GeometryReader2.swift in Sources */,
 				4D9E236C2D527640006329E8 /* ResizableSheetsDemo.swift in Sources */,
 				4D2AE5E92D4D3A6D00B42697 /* TextFieldDemo.swift in Sources */,
 				4D3D3DCE2D4D0A8A0041E451 /* ActionSheetDemo(Main).swift in Sources */,
@@ -455,12 +462,13 @@
 				4D92A1AD2D532BD200EB74E6 /* ViewThatfitsDemo.swift in Sources */,
 				4D3D3DCA2D4CDA4C0041E451 /* ToolBarDemo(Main).swift in Sources */,
 				4D684A782D4DDD29009C33D5 /* TabBarView.swift in Sources */,
-				4DCE09872D57DB8700E1A953 /* GeometryRaderDemo.swift in Sources */,
+				4DCE09872D57DB8700E1A953 /* GeometryReaderDemo.swift in Sources */,
 				4D6CDB602D4E598E001257D0 /* Onappear.swift in Sources */,
 				4DADC4502D4A88A600809279 /* Stacks.swift in Sources */,
 				4DADC4622D4B591500809279 /* GridItemsAdaptive(Main).swift in Sources */,
 				4D2AE5F32D4D557400B42697 /* SliderDemo.swift in Sources */,
 				4D4F35AA2D4BC8BA00C095B5 /* TransitionAnimation(Main).swift in Sources */,
+				4DCE098B2D57EABD00E1A953 /* MultipleSheetsDemo.swift in Sources */,
 				4DB185FB2D5163C800A41C94 /* GroupDemo.swift in Sources */,
 				4D4F35A82D4BBFE600C095B5 /* AnimationCurve(Main).swift in Sources */,
 				4D2AE5F12D4D505800B42697 /* StepperDemo.swift in Sources */,
