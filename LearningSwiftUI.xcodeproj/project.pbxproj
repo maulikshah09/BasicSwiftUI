@@ -90,6 +90,8 @@
 		4DB185F92D5160EE00A41C94 /* SafeAreaInsetsDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185F82D5160EE00A41C94 /* SafeAreaInsetsDemo.swift */; };
 		4DB185FB2D5163C800A41C94 /* GroupDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185FA2D5163C800A41C94 /* GroupDemo.swift */; };
 		4DB185FD2D51658800A41C94 /* MenuDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185FC2D51658800A41C94 /* MenuDemo.swift */; };
+		4DCE097B2D570C3700E1A953 /* LogPressGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE097A2D570C3700E1A953 /* LogPressGestureDemo.swift */; };
+		4DCE097D2D57118D00E1A953 /* MegnificationGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE097C2D57118D00E1A953 /* MegnificationGestureDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -177,6 +179,8 @@
 		4DB185F82D5160EE00A41C94 /* SafeAreaInsetsDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaInsetsDemo.swift; sourceTree = "<group>"; };
 		4DB185FA2D5163C800A41C94 /* GroupDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupDemo.swift; sourceTree = "<group>"; };
 		4DB185FC2D51658800A41C94 /* MenuDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuDemo.swift; sourceTree = "<group>"; };
+		4DCE097A2D570C3700E1A953 /* LogPressGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogPressGestureDemo.swift; sourceTree = "<group>"; };
+		4DCE097C2D57118D00E1A953 /* MegnificationGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MegnificationGestureDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -300,6 +304,8 @@
 				4D92A1B02D53A07100EB74E6 /* GridDemo.swift */,
 				4D92A1B42D53CDDD00EB74E6 /* ContentUnavailableViewDemo.swift */,
 				4D92A1B62D53D41200EB74E6 /* ControlGroupMenuDemo.swift */,
+				4DCE097A2D570C3700E1A953 /* LogPressGestureDemo.swift */,
+				4DCE097C2D57118D00E1A953 /* MegnificationGestureDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -378,6 +384,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D082E142D4FD5B40078DB5B /* Appstorage.swift in Sources */,
+				4DCE097D2D57118D00E1A953 /* MegnificationGestureDemo.swift in Sources */,
 				4DADC45C2D4AC01500809279 /* ScrollViewDemo2.swift in Sources */,
 				4DB185FD2D51658800A41C94 /* MenuDemo.swift in Sources */,
 				4D2AE5F92D4D69D600B42697 /* SegmentDemo.swift in Sources */,
@@ -414,6 +421,7 @@
 				4DADC45A2D4ABC6A00809279 /* ScrollViewDemo1.swift in Sources */,
 				4DB185EF2D51525F00A41C94 /* SwipeActionDemo.swift in Sources */,
 				4D6CDB622D4E6FDA001257D0 /* TapGesture.swift in Sources */,
+				4DCE097B2D570C3700E1A953 /* LogPressGestureDemo.swift in Sources */,
 				4DADC4562D4AAFDD00809279 /* InitAndEnum.swift in Sources */,
 				4DB185F92D5160EE00A41C94 /* SafeAreaInsetsDemo.swift in Sources */,
 				4DADC4482D4A738A00809279 /* Frame(Main).swift in Sources */,
