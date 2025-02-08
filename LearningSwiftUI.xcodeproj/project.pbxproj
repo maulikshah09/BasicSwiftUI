@@ -91,7 +91,8 @@
 		4DB185FB2D5163C800A41C94 /* GroupDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185FA2D5163C800A41C94 /* GroupDemo.swift */; };
 		4DB185FD2D51658800A41C94 /* MenuDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB185FC2D51658800A41C94 /* MenuDemo.swift */; };
 		4DCE097B2D570C3700E1A953 /* LogPressGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE097A2D570C3700E1A953 /* LogPressGestureDemo.swift */; };
-		4DCE097D2D57118D00E1A953 /* MegnificationGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE097C2D57118D00E1A953 /* MegnificationGestureDemo.swift */; };
+		4DCE097D2D57118D00E1A953 /* MagnificationGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE097C2D57118D00E1A953 /* MagnificationGestureDemo.swift */; };
+		4DCE097F2D57179100E1A953 /* RotationGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE097E2D57179100E1A953 /* RotationGestureDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -180,7 +181,8 @@
 		4DB185FA2D5163C800A41C94 /* GroupDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupDemo.swift; sourceTree = "<group>"; };
 		4DB185FC2D51658800A41C94 /* MenuDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuDemo.swift; sourceTree = "<group>"; };
 		4DCE097A2D570C3700E1A953 /* LogPressGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogPressGestureDemo.swift; sourceTree = "<group>"; };
-		4DCE097C2D57118D00E1A953 /* MegnificationGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MegnificationGestureDemo.swift; sourceTree = "<group>"; };
+		4DCE097C2D57118D00E1A953 /* MagnificationGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureDemo.swift; sourceTree = "<group>"; };
+		4DCE097E2D57179100E1A953 /* RotationGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -305,7 +307,8 @@
 				4D92A1B42D53CDDD00EB74E6 /* ContentUnavailableViewDemo.swift */,
 				4D92A1B62D53D41200EB74E6 /* ControlGroupMenuDemo.swift */,
 				4DCE097A2D570C3700E1A953 /* LogPressGestureDemo.swift */,
-				4DCE097C2D57118D00E1A953 /* MegnificationGestureDemo.swift */,
+				4DCE097C2D57118D00E1A953 /* MagnificationGestureDemo.swift */,
+				4DCE097E2D57179100E1A953 /* RotationGestureDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -384,7 +387,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D082E142D4FD5B40078DB5B /* Appstorage.swift in Sources */,
-				4DCE097D2D57118D00E1A953 /* MegnificationGestureDemo.swift in Sources */,
+				4DCE097D2D57118D00E1A953 /* MagnificationGestureDemo.swift in Sources */,
 				4DADC45C2D4AC01500809279 /* ScrollViewDemo2.swift in Sources */,
 				4DB185FD2D51658800A41C94 /* MenuDemo.swift in Sources */,
 				4D2AE5F92D4D69D600B42697 /* SegmentDemo.swift in Sources */,
@@ -431,6 +434,7 @@
 				4D2AE5F52D4D5C9000B42697 /* DatePickerDemo.swift in Sources */,
 				4D684A7C2D4DE736009C33D5 /* DarkModeDemo.swift in Sources */,
 				4DB185F32D51576600A41C94 /* ListViewBadgesDemo.swift in Sources */,
+				4DCE097F2D57179100E1A953 /* RotationGestureDemo.swift in Sources */,
 				4D92A1B72D53D41200EB74E6 /* ControlGroupMenuDemo.swift in Sources */,
 				4D4F35A22D4BA84600C095B5 /* Conditional.swift in Sources */,
 				4D92A1AD2D532BD200EB74E6 /* ViewThatfitsDemo.swift in Sources */,
