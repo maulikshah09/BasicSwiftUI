@@ -93,6 +93,7 @@
 		4DCE097B2D570C3700E1A953 /* LogPressGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE097A2D570C3700E1A953 /* LogPressGestureDemo.swift */; };
 		4DCE097D2D57118D00E1A953 /* MagnificationGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE097C2D57118D00E1A953 /* MagnificationGestureDemo.swift */; };
 		4DCE097F2D57179100E1A953 /* RotationGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE097E2D57179100E1A953 /* RotationGestureDemo.swift */; };
+		4DCE09812D571A6700E1A953 /* DragGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE09802D571A6700E1A953 /* DragGestureDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -183,6 +184,7 @@
 		4DCE097A2D570C3700E1A953 /* LogPressGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogPressGestureDemo.swift; sourceTree = "<group>"; };
 		4DCE097C2D57118D00E1A953 /* MagnificationGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureDemo.swift; sourceTree = "<group>"; };
 		4DCE097E2D57179100E1A953 /* RotationGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureDemo.swift; sourceTree = "<group>"; };
+		4DCE09802D571A6700E1A953 /* DragGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -309,6 +311,7 @@
 				4DCE097A2D570C3700E1A953 /* LogPressGestureDemo.swift */,
 				4DCE097C2D57118D00E1A953 /* MagnificationGestureDemo.swift */,
 				4DCE097E2D57179100E1A953 /* RotationGestureDemo.swift */,
+				4DCE09802D571A6700E1A953 /* DragGestureDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -419,6 +422,7 @@
 				4DB185F52D5157D600A41C94 /* FocusStateDemo.swift in Sources */,
 				4D2AE5F72D4D61EE00B42697 /* PickerDemo.swift in Sources */,
 				4D92A1B32D53B27C00EB74E6 /* GridViewDemo.swift in Sources */,
+				4DCE09812D571A6700E1A953 /* DragGestureDemo.swift in Sources */,
 				4DADC45E2D4B472200809279 /* GridItemsFixed(Main).swift in Sources */,
 				4D4F35A42D4BACFA00C095B5 /* TurneryOperator.swift in Sources */,
 				4DADC45A2D4ABC6A00809279 /* ScrollViewDemo1.swift in Sources */,
