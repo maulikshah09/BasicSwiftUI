@@ -38,6 +38,12 @@
 		4D4F35AA2D4BC8BA00C095B5 /* TransitionAnimation(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4F35A92D4BC8BA00C095B5 /* TransitionAnimation(Main).swift */; };
 		4D4F35AC2D4BCEA000C095B5 /* Sheets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4F35AB2D4BCEA000C095B5 /* Sheets.swift */; };
 		4D4F35B02D4BD40700C095B5 /* CustomPopover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4F35AF2D4BD40700C095B5 /* CustomPopover.swift */; };
+		4D5DF4C22D5915C200DD252A /* MaskDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5DF4C12D5915C200DD252A /* MaskDemo.swift */; };
+		4D5DF4C42D5919EE00DD252A /* AddSoundEffectDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5DF4C32D5919EE00DD252A /* AddSoundEffectDemo.swift */; };
+		4D5DF4C82D591E4000DD252A /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4D5DF4C72D591E4000DD252A /* tada.mp3 */; };
+		4D5DF4C92D591E4000DD252A /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4D5DF4C62D591E4000DD252A /* badum.mp3 */; };
+		4D5DF4CB2D59214000DD252A /* HapticsDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5DF4CA2D59214000DD252A /* HapticsDemo.swift */; };
+		4D5DF4CD2D59277300DD252A /* LocalNotificationDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5DF4CC2D59277300DD252A /* LocalNotificationDemo.swift */; };
 		4D684A782D4DDD29009C33D5 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D684A772D4DDD29009C33D5 /* TabBarView.swift */; };
 		4D684A7A2D4DE2FC009C33D5 /* PageViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D684A792D4DE2FC009C33D5 /* PageViewDemo.swift */; };
 		4D684A7C2D4DE736009C33D5 /* DarkModeDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D684A7B2D4DE736009C33D5 /* DarkModeDemo.swift */; };
@@ -133,6 +139,12 @@
 		4D4F35A92D4BC8BA00C095B5 /* TransitionAnimation(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TransitionAnimation(Main).swift"; sourceTree = "<group>"; };
 		4D4F35AB2D4BCEA000C095B5 /* Sheets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheets.swift; sourceTree = "<group>"; };
 		4D4F35AF2D4BD40700C095B5 /* CustomPopover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPopover.swift; sourceTree = "<group>"; };
+		4D5DF4C12D5915C200DD252A /* MaskDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskDemo.swift; sourceTree = "<group>"; };
+		4D5DF4C32D5919EE00DD252A /* AddSoundEffectDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddSoundEffectDemo.swift; sourceTree = "<group>"; };
+		4D5DF4C62D591E4000DD252A /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
+		4D5DF4C72D591E4000DD252A /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
+		4D5DF4CA2D59214000DD252A /* HapticsDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsDemo.swift; sourceTree = "<group>"; };
+		4D5DF4CC2D59277300DD252A /* LocalNotificationDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationDemo.swift; sourceTree = "<group>"; };
 		4D684A772D4DDD29009C33D5 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
 		4D684A792D4DE2FC009C33D5 /* PageViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewDemo.swift; sourceTree = "<group>"; };
 		4D684A7B2D4DE736009C33D5 /* DarkModeDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeDemo.swift; sourceTree = "<group>"; };
@@ -208,6 +220,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4D5DF4C52D591E2D00DD252A /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				4D5DF4C62D591E4000DD252A /* badum.mp3 */,
+				4D5DF4C72D591E4000DD252A /* tada.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 		4DADC3FC2D4A63ED00809279 = {
 			isa = PBXGroup;
 			children = (
@@ -327,6 +348,11 @@
 				4DCE09862D57DB8700E1A953 /* GeometryReaderDemo.swift */,
 				4DCE09882D57E7BA00E1A953 /* GeometryReader2.swift */,
 				4DCE098A2D57EABD00E1A953 /* MultipleSheetsDemo.swift */,
+				4D5DF4C12D5915C200DD252A /* MaskDemo.swift */,
+				4D5DF4C32D5919EE00DD252A /* AddSoundEffectDemo.swift */,
+				4D5DF4C52D591E2D00DD252A /* Sounds */,
+				4D5DF4CA2D59214000DD252A /* HapticsDemo.swift */,
+				4D5DF4CC2D59277300DD252A /* LocalNotificationDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -394,6 +420,8 @@
 			files = (
 				4DADC43F2D4A658100809279 /* Preview Assets.xcassets in Resources */,
 				4DADC4402D4A658100809279 /* Assets.xcassets in Resources */,
+				4D5DF4C82D591E4000DD252A /* tada.mp3 in Resources */,
+				4D5DF4C92D591E4000DD252A /* badum.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -443,7 +471,9 @@
 				4DADC45E2D4B472200809279 /* GridItemsFixed(Main).swift in Sources */,
 				4D4F35A42D4BACFA00C095B5 /* TurneryOperator.swift in Sources */,
 				4DADC45A2D4ABC6A00809279 /* ScrollViewDemo1.swift in Sources */,
+				4D5DF4CB2D59214000DD252A /* HapticsDemo.swift in Sources */,
 				4DCE09852D57D42700E1A953 /* ScrollViewReaderDemo.swift in Sources */,
+				4D5DF4CD2D59277300DD252A /* LocalNotificationDemo.swift in Sources */,
 				4DB185EF2D51525F00A41C94 /* SwipeActionDemo.swift in Sources */,
 				4D6CDB622D4E6FDA001257D0 /* TapGesture.swift in Sources */,
 				4DCE097B2D570C3700E1A953 /* LogPressGestureDemo.swift in Sources */,
@@ -452,6 +482,7 @@
 				4DADC4482D4A738A00809279 /* Frame(Main).swift in Sources */,
 				4DADC4392D4A658100809279 /* Colors.swift in Sources */,
 				4DB185EB2D514CF000A41C94 /* TextSelectionDemo.swift in Sources */,
+				4D5DF4C42D5919EE00DD252A /* AddSoundEffectDemo.swift in Sources */,
 				4D3D3DC42D4CC9AD0041E451 /* ListDemo(Main).swift in Sources */,
 				4D2AE5F52D4D5C9000B42697 /* DatePickerDemo.swift in Sources */,
 				4D684A7C2D4DE736009C33D5 /* DarkModeDemo.swift in Sources */,
@@ -459,6 +490,7 @@
 				4DCE097F2D57179100E1A953 /* RotationGestureDemo.swift in Sources */,
 				4D92A1B72D53D41200EB74E6 /* ControlGroupMenuDemo.swift in Sources */,
 				4D4F35A22D4BA84600C095B5 /* Conditional.swift in Sources */,
+				4D5DF4C22D5915C200DD252A /* MaskDemo.swift in Sources */,
 				4D92A1AD2D532BD200EB74E6 /* ViewThatfitsDemo.swift in Sources */,
 				4D3D3DCA2D4CDA4C0041E451 /* ToolBarDemo(Main).swift in Sources */,
 				4D684A782D4DDD29009C33D5 /* TabBarView.swift in Sources */,
