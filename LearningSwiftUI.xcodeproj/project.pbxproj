@@ -59,6 +59,8 @@
 		4D92A1B52D53CDDD00EB74E6 /* ContentUnavailableViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1B42D53CDDD00EB74E6 /* ContentUnavailableViewDemo.swift */; };
 		4D92A1B72D53D41200EB74E6 /* ControlGroupMenuDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1B62D53D41200EB74E6 /* ControlGroupMenuDemo.swift */; };
 		4D9E236C2D527640006329E8 /* ResizableSheetsDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9E236B2D527640006329E8 /* ResizableSheetsDemo.swift */; };
+		4DA4D13E2D59EDB90075A105 /* HashableDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DA4D13D2D59EDB90075A105 /* HashableDemo.swift */; };
+		4DA4D1402D59F2850075A105 /* HighOrderFunctionDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DA4D13F2D59F2850075A105 /* HighOrderFunctionDemo.swift */; };
 		4DADC4392D4A658100809279 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4322D4A658100809279 /* Colors.swift */; };
 		4DADC43B2D4A658100809279 /* Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4342D4A658100809279 /* Gradient.swift */; };
 		4DADC43C2D4A658100809279 /* LearningSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DADC4352D4A658100809279 /* LearningSwiftUIApp.swift */; };
@@ -160,6 +162,8 @@
 		4D92A1B42D53CDDD00EB74E6 /* ContentUnavailableViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavailableViewDemo.swift; sourceTree = "<group>"; };
 		4D92A1B62D53D41200EB74E6 /* ControlGroupMenuDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroupMenuDemo.swift; sourceTree = "<group>"; };
 		4D9E236B2D527640006329E8 /* ResizableSheetsDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetsDemo.swift; sourceTree = "<group>"; };
+		4DA4D13D2D59EDB90075A105 /* HashableDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableDemo.swift; sourceTree = "<group>"; };
+		4DA4D13F2D59F2850075A105 /* HighOrderFunctionDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighOrderFunctionDemo.swift; sourceTree = "<group>"; };
 		4DADC4052D4A63ED00809279 /* LearningSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DADC42F2D4A658100809279 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4DADC4312D4A658100809279 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -259,6 +263,7 @@
 				4DADC4352D4A658100809279 /* LearningSwiftUIApp.swift */,
 				4DADC4302D4A658100809279 /* Preview Content */,
 				4DADC4312D4A658100809279 /* Assets.xcassets */,
+				4D5DF4C52D591E2D00DD252A /* Sounds */,
 				4DADC4372D4A658100809279 /* TextDemo.swift */,
 				4DADC4362D4A658100809279 /* Shapes.swift */,
 				4DADC4322D4A658100809279 /* Colors.swift */,
@@ -350,9 +355,10 @@
 				4DCE098A2D57EABD00E1A953 /* MultipleSheetsDemo.swift */,
 				4D5DF4C12D5915C200DD252A /* MaskDemo.swift */,
 				4D5DF4C32D5919EE00DD252A /* AddSoundEffectDemo.swift */,
-				4D5DF4C52D591E2D00DD252A /* Sounds */,
 				4D5DF4CA2D59214000DD252A /* HapticsDemo.swift */,
 				4D5DF4CC2D59277300DD252A /* LocalNotificationDemo.swift */,
+				4DA4D13D2D59EDB90075A105 /* HashableDemo.swift */,
+				4DA4D13F2D59F2850075A105 /* HighOrderFunctionDemo.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -461,6 +467,7 @@
 				4D4F359C2D4B8D6500C095B5 /* BindingDemo.swift in Sources */,
 				4D3D3DC62D4CCE850041E451 /* NavigationStackDemo(Main)).swift in Sources */,
 				4DADC4682D4B7AFB00809279 /* SafeAreaDemo2.swift in Sources */,
+				4DA4D1402D59F2850075A105 /* HighOrderFunctionDemo.swift in Sources */,
 				4D684A7A2D4DE2FC009C33D5 /* PageViewDemo.swift in Sources */,
 				4D92A1A72D5299FF00EB74E6 /* AnimationUpdateDemo.swift in Sources */,
 				4DB185F52D5157D600A41C94 /* FocusStateDemo.swift in Sources */,
@@ -510,6 +517,7 @@
 				4DADC43B2D4A658100809279 /* Gradient.swift in Sources */,
 				4D2AE5EF2D4D497900B42697 /* ColorPickerDemo.swift in Sources */,
 				4D3D3DD02D4D14930041E451 /* ContentmenuDemo.swift in Sources */,
+				4DA4D13E2D59EDB90075A105 /* HashableDemo.swift in Sources */,
 				4DADC43C2D4A658100809279 /* LearningSwiftUIApp.swift in Sources */,
 				4D92A1B52D53CDDD00EB74E6 /* ContentUnavailableViewDemo.swift in Sources */,
 				4D4F359E2D4B9D6300C095B5 /* ExtractedFunctions.swift in Sources */,
