@@ -49,6 +49,7 @@
 		4D684A7C2D4DE736009C33D5 /* DarkModeDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D684A7B2D4DE736009C33D5 /* DarkModeDemo.swift */; };
 		4D6CDB602D4E598E001257D0 /* Onappear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6CDB5F2D4E598E001257D0 /* Onappear.swift */; };
 		4D6CDB622D4E6FDA001257D0 /* TapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6CDB612D4E6FDA001257D0 /* TapGesture.swift */; };
+		4D8E4AB72D5CC2A4007A0698 /* BackgroundThreadDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8E4AB62D5CC2A4007A0698 /* BackgroundThreadDemo.swift */; };
 		4D92A1A72D5299FF00EB74E6 /* AnimationUpdateDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1A62D5299FF00EB74E6 /* AnimationUpdateDemo.swift */; };
 		4D92A1A92D52A07900EB74E6 /* NativePopOverDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1A82D52A07900EB74E6 /* NativePopOverDemo.swift */; };
 		4D92A1AB2D52A68200EB74E6 /* AnyLayoutDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1AA2D52A68200EB74E6 /* AnyLayoutDemo.swift */; };
@@ -107,6 +108,9 @@
 		4DCE09872D57DB8700E1A953 /* GeometryReaderDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE09862D57DB8700E1A953 /* GeometryReaderDemo.swift */; };
 		4DCE09892D57E7BA00E1A953 /* GeometryReader2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE09882D57E7BA00E1A953 /* GeometryReader2.swift */; };
 		4DCE098B2D57EABD00E1A953 /* MultipleSheetsDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DCE098A2D57EABD00E1A953 /* MultipleSheetsDemo.swift */; };
+		4DD682C12D5CDB8000D72B21 /* WeakSelfDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD682C02D5CDB8000D72B21 /* WeakSelfDemo.swift */; };
+		4DD682C42D5CE3CE00D72B21 /* TypealiasDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD682C32D5CE3CE00D72B21 /* TypealiasDemo.swift */; };
+		4DD683272D5D172A00D72B21 /* EscapingDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD683262D5D172A00D72B21 /* EscapingDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -152,6 +156,7 @@
 		4D684A7B2D4DE736009C33D5 /* DarkModeDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeDemo.swift; sourceTree = "<group>"; };
 		4D6CDB5F2D4E598E001257D0 /* Onappear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onappear.swift; sourceTree = "<group>"; };
 		4D6CDB612D4E6FDA001257D0 /* TapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesture.swift; sourceTree = "<group>"; };
+		4D8E4AB62D5CC2A4007A0698 /* BackgroundThreadDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadDemo.swift; sourceTree = "<group>"; };
 		4D92A1A62D5299FF00EB74E6 /* AnimationUpdateDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUpdateDemo.swift; sourceTree = "<group>"; };
 		4D92A1A82D52A07900EB74E6 /* NativePopOverDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativePopOverDemo.swift; sourceTree = "<group>"; };
 		4D92A1AA2D52A68200EB74E6 /* AnyLayoutDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyLayoutDemo.swift; sourceTree = "<group>"; };
@@ -211,6 +216,9 @@
 		4DCE09862D57DB8700E1A953 /* GeometryReaderDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderDemo.swift; sourceTree = "<group>"; };
 		4DCE09882D57E7BA00E1A953 /* GeometryReader2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReader2.swift; sourceTree = "<group>"; };
 		4DCE098A2D57EABD00E1A953 /* MultipleSheetsDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsDemo.swift; sourceTree = "<group>"; };
+		4DD682C02D5CDB8000D72B21 /* WeakSelfDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfDemo.swift; sourceTree = "<group>"; };
+		4DD682C32D5CE3CE00D72B21 /* TypealiasDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasDemo.swift; sourceTree = "<group>"; };
+		4DD683262D5D172A00D72B21 /* EscapingDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -357,10 +365,22 @@
 				4D5DF4C32D5919EE00DD252A /* AddSoundEffectDemo.swift */,
 				4D5DF4CA2D59214000DD252A /* HapticsDemo.swift */,
 				4D5DF4CC2D59277300DD252A /* LocalNotificationDemo.swift */,
-				4DA4D13D2D59EDB90075A105 /* HashableDemo.swift */,
-				4DA4D13F2D59F2850075A105 /* HighOrderFunctionDemo.swift */,
+				4DD682C22D5CDBBF00D72B21 /* Swift */,
 			);
 			path = LearningSwiftUI;
+			sourceTree = "<group>";
+		};
+		4DD682C22D5CDBBF00D72B21 /* Swift */ = {
+			isa = PBXGroup;
+			children = (
+				4DA4D13D2D59EDB90075A105 /* HashableDemo.swift */,
+				4DA4D13F2D59F2850075A105 /* HighOrderFunctionDemo.swift */,
+				4D8E4AB62D5CC2A4007A0698 /* BackgroundThreadDemo.swift */,
+				4DD682C02D5CDB8000D72B21 /* WeakSelfDemo.swift */,
+				4DD682C32D5CE3CE00D72B21 /* TypealiasDemo.swift */,
+				4DD683262D5D172A00D72B21 /* EscapingDemo.swift */,
+			);
+			path = Swift;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -439,11 +459,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D082E142D4FD5B40078DB5B /* Appstorage.swift in Sources */,
+				4DD682C42D5CE3CE00D72B21 /* TypealiasDemo.swift in Sources */,
 				4DCE097D2D57118D00E1A953 /* MagnificationGestureDemo.swift in Sources */,
 				4DADC45C2D4AC01500809279 /* ScrollViewDemo2.swift in Sources */,
 				4DB185FD2D51658800A41C94 /* MenuDemo.swift in Sources */,
 				4D2AE5F92D4D69D600B42697 /* SegmentDemo.swift in Sources */,
 				4DADC4462D4A6DD500809279 /* Images.swift in Sources */,
+				4DD682C12D5CDB8000D72B21 /* WeakSelfDemo.swift in Sources */,
 				4DADC44A2D4A7A9200809279 /* Background(Main).swift in Sources */,
 				4DCE09892D57E7BA00E1A953 /* GeometryReader2.swift in Sources */,
 				4D9E236C2D527640006329E8 /* ResizableSheetsDemo.swift in Sources */,
@@ -480,6 +502,7 @@
 				4DADC45A2D4ABC6A00809279 /* ScrollViewDemo1.swift in Sources */,
 				4D5DF4CB2D59214000DD252A /* HapticsDemo.swift in Sources */,
 				4DCE09852D57D42700E1A953 /* ScrollViewReaderDemo.swift in Sources */,
+				4DD683272D5D172A00D72B21 /* EscapingDemo.swift in Sources */,
 				4D5DF4CD2D59277300DD252A /* LocalNotificationDemo.swift in Sources */,
 				4DB185EF2D51525F00A41C94 /* SwipeActionDemo.swift in Sources */,
 				4D6CDB622D4E6FDA001257D0 /* TapGesture.swift in Sources */,
@@ -492,6 +515,7 @@
 				4D5DF4C42D5919EE00DD252A /* AddSoundEffectDemo.swift in Sources */,
 				4D3D3DC42D4CC9AD0041E451 /* ListDemo(Main).swift in Sources */,
 				4D2AE5F52D4D5C9000B42697 /* DatePickerDemo.swift in Sources */,
+				4D8E4AB72D5CC2A4007A0698 /* BackgroundThreadDemo.swift in Sources */,
 				4D684A7C2D4DE736009C33D5 /* DarkModeDemo.swift in Sources */,
 				4DB185F32D51576600A41C94 /* ListViewBadgesDemo.swift in Sources */,
 				4DCE097F2D57179100E1A953 /* RotationGestureDemo.swift in Sources */,
