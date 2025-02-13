@@ -51,6 +51,7 @@
 		4D6CDB622D4E6FDA001257D0 /* TapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6CDB612D4E6FDA001257D0 /* TapGesture.swift */; };
 		4D8793482D5DBE5000CB3072 /* CodableDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8793472D5DBE5000CB3072 /* CodableDemo.swift */; };
 		4D87934A2D5E09A300CB3072 /* DownloadWithEscapingDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8793492D5E09A300CB3072 /* DownloadWithEscapingDemo.swift */; };
+		4D87934C2D5E1B3400CB3072 /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D87934B2D5E1B3400CB3072 /* DownloadWithCombine.swift */; };
 		4D8E4AB72D5CC2A4007A0698 /* BackgroundThreadDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8E4AB62D5CC2A4007A0698 /* BackgroundThreadDemo.swift */; };
 		4D92A1A72D5299FF00EB74E6 /* AnimationUpdateDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1A62D5299FF00EB74E6 /* AnimationUpdateDemo.swift */; };
 		4D92A1A92D52A07900EB74E6 /* NativePopOverDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1A82D52A07900EB74E6 /* NativePopOverDemo.swift */; };
@@ -160,6 +161,7 @@
 		4D6CDB612D4E6FDA001257D0 /* TapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesture.swift; sourceTree = "<group>"; };
 		4D8793472D5DBE5000CB3072 /* CodableDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableDemo.swift; sourceTree = "<group>"; };
 		4D8793492D5E09A300CB3072 /* DownloadWithEscapingDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingDemo.swift; sourceTree = "<group>"; };
+		4D87934B2D5E1B3400CB3072 /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
 		4D8E4AB62D5CC2A4007A0698 /* BackgroundThreadDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadDemo.swift; sourceTree = "<group>"; };
 		4D92A1A62D5299FF00EB74E6 /* AnimationUpdateDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUpdateDemo.swift; sourceTree = "<group>"; };
 		4D92A1A82D52A07900EB74E6 /* NativePopOverDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativePopOverDemo.swift; sourceTree = "<group>"; };
@@ -385,6 +387,7 @@
 				4DD683262D5D172A00D72B21 /* EscapingDemo.swift */,
 				4D8793472D5DBE5000CB3072 /* CodableDemo.swift */,
 				4D8793492D5E09A300CB3072 /* DownloadWithEscapingDemo.swift */,
+				4D87934B2D5E1B3400CB3072 /* DownloadWithCombine.swift */,
 			);
 			path = Swift;
 			sourceTree = "<group>";
@@ -471,6 +474,7 @@
 				4DB185FD2D51658800A41C94 /* MenuDemo.swift in Sources */,
 				4D2AE5F92D4D69D600B42697 /* SegmentDemo.swift in Sources */,
 				4DADC4462D4A6DD500809279 /* Images.swift in Sources */,
+				4D87934C2D5E1B3400CB3072 /* DownloadWithCombine.swift in Sources */,
 				4DD682C12D5CDB8000D72B21 /* WeakSelfDemo.swift in Sources */,
 				4DADC44A2D4A7A9200809279 /* Background(Main).swift in Sources */,
 				4DCE09892D57E7BA00E1A953 /* GeometryReader2.swift in Sources */,

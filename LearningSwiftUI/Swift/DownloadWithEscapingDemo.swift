@@ -7,11 +7,11 @@
 
 import SwiftUI
 
-struct PostModel : Identifiable,Codable {
-    var userId,id :Int
-    var title : String
-    var body : String
-}
+//struct PostModel : Identifiable,Codable {
+//    var userId,id :Int
+//    var title : String
+//    var body : String
+//}
 
 class DownloadWithEscapingViewModel: ObservableObject{
     @Published var posts: [PostModel] = []
