@@ -49,6 +49,7 @@
 		4D684A7C2D4DE736009C33D5 /* DarkModeDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D684A7B2D4DE736009C33D5 /* DarkModeDemo.swift */; };
 		4D6CDB602D4E598E001257D0 /* Onappear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6CDB5F2D4E598E001257D0 /* Onappear.swift */; };
 		4D6CDB622D4E6FDA001257D0 /* TapGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D6CDB612D4E6FDA001257D0 /* TapGesture.swift */; };
+		4D8793482D5DBE5000CB3072 /* CodableDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8793472D5DBE5000CB3072 /* CodableDemo.swift */; };
 		4D8E4AB72D5CC2A4007A0698 /* BackgroundThreadDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8E4AB62D5CC2A4007A0698 /* BackgroundThreadDemo.swift */; };
 		4D92A1A72D5299FF00EB74E6 /* AnimationUpdateDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1A62D5299FF00EB74E6 /* AnimationUpdateDemo.swift */; };
 		4D92A1A92D52A07900EB74E6 /* NativePopOverDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1A82D52A07900EB74E6 /* NativePopOverDemo.swift */; };
@@ -156,6 +157,7 @@
 		4D684A7B2D4DE736009C33D5 /* DarkModeDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeDemo.swift; sourceTree = "<group>"; };
 		4D6CDB5F2D4E598E001257D0 /* Onappear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onappear.swift; sourceTree = "<group>"; };
 		4D6CDB612D4E6FDA001257D0 /* TapGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGesture.swift; sourceTree = "<group>"; };
+		4D8793472D5DBE5000CB3072 /* CodableDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableDemo.swift; sourceTree = "<group>"; };
 		4D8E4AB62D5CC2A4007A0698 /* BackgroundThreadDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadDemo.swift; sourceTree = "<group>"; };
 		4D92A1A62D5299FF00EB74E6 /* AnimationUpdateDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUpdateDemo.swift; sourceTree = "<group>"; };
 		4D92A1A82D52A07900EB74E6 /* NativePopOverDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativePopOverDemo.swift; sourceTree = "<group>"; };
@@ -379,6 +381,7 @@
 				4DD682C02D5CDB8000D72B21 /* WeakSelfDemo.swift */,
 				4DD682C32D5CE3CE00D72B21 /* TypealiasDemo.swift */,
 				4DD683262D5D172A00D72B21 /* EscapingDemo.swift */,
+				4D8793472D5DBE5000CB3072 /* CodableDemo.swift */,
 			);
 			path = Swift;
 			sourceTree = "<group>";
@@ -468,6 +471,7 @@
 				4DD682C12D5CDB8000D72B21 /* WeakSelfDemo.swift in Sources */,
 				4DADC44A2D4A7A9200809279 /* Background(Main).swift in Sources */,
 				4DCE09892D57E7BA00E1A953 /* GeometryReader2.swift in Sources */,
+				4D8793482D5DBE5000CB3072 /* CodableDemo.swift in Sources */,
 				4D9E236C2D527640006329E8 /* ResizableSheetsDemo.swift in Sources */,
 				4D2AE5E92D4D3A6D00B42697 /* TextFieldDemo.swift in Sources */,
 				4D3D3DCE2D4D0A8A0041E451 /* ActionSheetDemo(Main).swift in Sources */,
