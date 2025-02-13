@@ -3,4 +3,130 @@
    uuid = "0679B5B3-2958-4F04-8B0B-C9D7D793EE54"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F310EB1-1FC3-4A70-B380-84131DAEEFC3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningSwiftUI/Swift/DownloadWithEscapingDemo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getPost()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F5CDA49-593D-4519-8526-0963855BE5C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningSwiftUI/Swift/DownloadWithEscapingDemo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getPost()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C010126-9A93-471F-8884-6AFA0F905EAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningSwiftUI/Swift/DownloadWithEscapingDemo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getPost()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C010126-9A93-471F-8884-6AFA0F905EAE - a0075c7c9c63146a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in LearningSwiftUI.DownloadWithEscapingViewModel.getPost() -&gt; ()"
+                  moduleName = "LearningSwiftUI.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maulik/Documents/LearningSwiftUI/LearningSwiftUI/Swift/DownloadWithEscapingDemo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42">
+               </Location>
+               <Location
+                  uuid = "1C010126-9A93-471F-8884-6AFA0F905EAE - 94c09fbc500309b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in LearningSwiftUI.DownloadWithEscapingViewModel.getPost() -&gt; ()"
+                  moduleName = "LearningSwiftUI.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maulik/Documents/LearningSwiftUI/LearningSwiftUI/Swift/DownloadWithEscapingDemo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F8678D1-5AFE-4D77-B196-B902BD70820C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LearningSwiftUI/Swift/DownloadWithEscapingDemo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getPost()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7F8678D1-5AFE-4D77-B196-B902BD70820C - a0075c7c9c63146a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in LearningSwiftUI.DownloadWithEscapingViewModel.getPost() -&gt; ()"
+                  moduleName = "LearningSwiftUI.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maulik/Documents/LearningSwiftUI/LearningSwiftUI/Swift/DownloadWithEscapingDemo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42">
+               </Location>
+               <Location
+                  uuid = "7F8678D1-5AFE-4D77-B196-B902BD70820C - 94c09fbc500309b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in LearningSwiftUI.DownloadWithEscapingViewModel.getPost() -&gt; ()"
+                  moduleName = "LearningSwiftUI.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maulik/Documents/LearningSwiftUI/LearningSwiftUI/Swift/DownloadWithEscapingDemo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
