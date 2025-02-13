@@ -52,6 +52,11 @@
 		4D8793482D5DBE5000CB3072 /* CodableDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8793472D5DBE5000CB3072 /* CodableDemo.swift */; };
 		4D87934A2D5E09A300CB3072 /* DownloadWithEscapingDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8793492D5E09A300CB3072 /* DownloadWithEscapingDemo.swift */; };
 		4D87934C2D5E1B3400CB3072 /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D87934B2D5E1B3400CB3072 /* DownloadWithCombine.swift */; };
+		4D87934E2D5E35B200CB3072 /* TimerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D87934D2D5E35B200CB3072 /* TimerDemo.swift */; };
+		4D8793502D5E393000CB3072 /* TimerDemo2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D87934F2D5E393000CB3072 /* TimerDemo2.swift */; };
+		4D8793522D5E3EAE00CB3072 /* Timer3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8793512D5E3EAE00CB3072 /* Timer3.swift */; };
+		4D8793542D5E596900CB3072 /* Timer4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8793532D5E596900CB3072 /* Timer4.swift */; };
+		4D8793562D5E68A500CB3072 /* Timer5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8793552D5E68A500CB3072 /* Timer5.swift */; };
 		4D8E4AB72D5CC2A4007A0698 /* BackgroundThreadDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8E4AB62D5CC2A4007A0698 /* BackgroundThreadDemo.swift */; };
 		4D92A1A72D5299FF00EB74E6 /* AnimationUpdateDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1A62D5299FF00EB74E6 /* AnimationUpdateDemo.swift */; };
 		4D92A1A92D52A07900EB74E6 /* NativePopOverDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1A82D52A07900EB74E6 /* NativePopOverDemo.swift */; };
@@ -162,6 +167,11 @@
 		4D8793472D5DBE5000CB3072 /* CodableDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableDemo.swift; sourceTree = "<group>"; };
 		4D8793492D5E09A300CB3072 /* DownloadWithEscapingDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingDemo.swift; sourceTree = "<group>"; };
 		4D87934B2D5E1B3400CB3072 /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
+		4D87934D2D5E35B200CB3072 /* TimerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerDemo.swift; sourceTree = "<group>"; };
+		4D87934F2D5E393000CB3072 /* TimerDemo2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerDemo2.swift; sourceTree = "<group>"; };
+		4D8793512D5E3EAE00CB3072 /* Timer3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer3.swift; sourceTree = "<group>"; };
+		4D8793532D5E596900CB3072 /* Timer4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer4.swift; sourceTree = "<group>"; };
+		4D8793552D5E68A500CB3072 /* Timer5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer5.swift; sourceTree = "<group>"; };
 		4D8E4AB62D5CC2A4007A0698 /* BackgroundThreadDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadDemo.swift; sourceTree = "<group>"; };
 		4D92A1A62D5299FF00EB74E6 /* AnimationUpdateDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUpdateDemo.swift; sourceTree = "<group>"; };
 		4D92A1A82D52A07900EB74E6 /* NativePopOverDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativePopOverDemo.swift; sourceTree = "<group>"; };
@@ -371,12 +381,12 @@
 				4D5DF4C32D5919EE00DD252A /* AddSoundEffectDemo.swift */,
 				4D5DF4CA2D59214000DD252A /* HapticsDemo.swift */,
 				4D5DF4CC2D59277300DD252A /* LocalNotificationDemo.swift */,
-				4DD682C22D5CDBBF00D72B21 /* Swift */,
+				4DD682C22D5CDBBF00D72B21 /* AdvanceSwift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
 		};
-		4DD682C22D5CDBBF00D72B21 /* Swift */ = {
+		4DD682C22D5CDBBF00D72B21 /* AdvanceSwift */ = {
 			isa = PBXGroup;
 			children = (
 				4DA4D13D2D59EDB90075A105 /* HashableDemo.swift */,
@@ -388,8 +398,13 @@
 				4D8793472D5DBE5000CB3072 /* CodableDemo.swift */,
 				4D8793492D5E09A300CB3072 /* DownloadWithEscapingDemo.swift */,
 				4D87934B2D5E1B3400CB3072 /* DownloadWithCombine.swift */,
+				4D87934D2D5E35B200CB3072 /* TimerDemo.swift */,
+				4D87934F2D5E393000CB3072 /* TimerDemo2.swift */,
+				4D8793512D5E3EAE00CB3072 /* Timer3.swift */,
+				4D8793532D5E596900CB3072 /* Timer4.swift */,
+				4D8793552D5E68A500CB3072 /* Timer5.swift */,
 			);
-			path = Swift;
+			path = AdvanceSwift;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -491,6 +506,8 @@
 				4DADC4582D4AB72900809279 /* ForEachLoop.swift in Sources */,
 				4D13B8322D4EA36E0028E258 /* EnviorementObjectDemo(Main).swift in Sources */,
 				4D2AE5ED2D4D478B00B42697 /* ToggleDemo.swift in Sources */,
+				4D87934E2D5E35B200CB3072 /* TimerDemo.swift in Sources */,
+				4D8793562D5E68A500CB3072 /* Timer5.swift in Sources */,
 				4DB185ED2D514F5800A41C94 /* ButtonStyleDemo.swift in Sources */,
 				4DADC4662D4B68D100809279 /* SafeArea.swift in Sources */,
 				4D3D3DCC2D4CFD110041E451 /* AlertView(Main).swift in Sources */,
@@ -507,11 +524,14 @@
 				4D2AE5F72D4D61EE00B42697 /* PickerDemo.swift in Sources */,
 				4D92A1B32D53B27C00EB74E6 /* GridViewDemo.swift in Sources */,
 				4DCE09832D57C9CB00E1A953 /* DragGestureDemo2.swift in Sources */,
+				4D8793522D5E3EAE00CB3072 /* Timer3.swift in Sources */,
 				4DCE09812D571A6700E1A953 /* DragGestureDemo.swift in Sources */,
+				4D8793542D5E596900CB3072 /* Timer4.swift in Sources */,
 				4DADC45E2D4B472200809279 /* GridItemsFixed(Main).swift in Sources */,
 				4D4F35A42D4BACFA00C095B5 /* TurneryOperator.swift in Sources */,
 				4DADC45A2D4ABC6A00809279 /* ScrollViewDemo1.swift in Sources */,
 				4D5DF4CB2D59214000DD252A /* HapticsDemo.swift in Sources */,
+				4D8793502D5E393000CB3072 /* TimerDemo2.swift in Sources */,
 				4D87934A2D5E09A300CB3072 /* DownloadWithEscapingDemo.swift in Sources */,
 				4DCE09852D57D42700E1A953 /* ScrollViewReaderDemo.swift in Sources */,
 				4DD683272D5D172A00D72B21 /* EscapingDemo.swift in Sources */,

@@ -18,36 +18,6 @@
             endingLineNumber = "42"
             landmarkName = "getPost()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "1C010126-9A93-471F-8884-6AFA0F905EAE - a0075c7c9c63146a"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in LearningSwiftUI.DownloadWithEscapingViewModel.getPost() -&gt; ()"
-                  moduleName = "LearningSwiftUI.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/maulik/Documents/LearningSwiftUI/LearningSwiftUI/Swift/DownloadWithEscapingDemo.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "42"
-                  endingLineNumber = "42">
-               </Location>
-               <Location
-                  uuid = "1C010126-9A93-471F-8884-6AFA0F905EAE - 94c09fbc500309b2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in LearningSwiftUI.DownloadWithEscapingViewModel.getPost() -&gt; ()"
-                  moduleName = "LearningSwiftUI.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/maulik/Documents/LearningSwiftUI/LearningSwiftUI/Swift/DownloadWithEscapingDemo.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "42"
-                  endingLineNumber = "42">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -64,36 +34,6 @@
             endingLineNumber = "41"
             landmarkName = "getPost()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "7F8678D1-5AFE-4D77-B196-B902BD70820C - a0075c7c9c63146a"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in LearningSwiftUI.DownloadWithEscapingViewModel.getPost() -&gt; ()"
-                  moduleName = "LearningSwiftUI.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/maulik/Documents/LearningSwiftUI/LearningSwiftUI/Swift/DownloadWithEscapingDemo.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "42"
-                  endingLineNumber = "42">
-               </Location>
-               <Location
-                  uuid = "7F8678D1-5AFE-4D77-B196-B902BD70820C - 94c09fbc500309b2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in LearningSwiftUI.DownloadWithEscapingViewModel.getPost() -&gt; ()"
-                  moduleName = "LearningSwiftUI.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/maulik/Documents/LearningSwiftUI/LearningSwiftUI/Swift/DownloadWithEscapingDemo.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "42"
-                  endingLineNumber = "42">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
