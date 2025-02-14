@@ -119,6 +119,7 @@
 		4DD682C12D5CDB8000D72B21 /* WeakSelfDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD682C02D5CDB8000D72B21 /* WeakSelfDemo.swift */; };
 		4DD682C42D5CE3CE00D72B21 /* TypealiasDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD682C32D5CE3CE00D72B21 /* TypealiasDemo.swift */; };
 		4DD683272D5D172A00D72B21 /* EscapingDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD683262D5D172A00D72B21 /* EscapingDemo.swift */; };
+		4DF873CF2D5F92E80022B148 /* SubscribeDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF873CE2D5F92E80022B148 /* SubscribeDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -235,6 +236,7 @@
 		4DD682C02D5CDB8000D72B21 /* WeakSelfDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfDemo.swift; sourceTree = "<group>"; };
 		4DD682C32D5CE3CE00D72B21 /* TypealiasDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasDemo.swift; sourceTree = "<group>"; };
 		4DD683262D5D172A00D72B21 /* EscapingDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingDemo.swift; sourceTree = "<group>"; };
+		4DF873CE2D5F92E80022B148 /* SubscribeDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscribeDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -403,6 +405,7 @@
 				4D8793512D5E3EAE00CB3072 /* Timer3.swift */,
 				4D8793532D5E596900CB3072 /* Timer4.swift */,
 				4D8793552D5E68A500CB3072 /* Timer5.swift */,
+				4DF873CE2D5F92E80022B148 /* SubscribeDemo.swift */,
 			);
 			path = AdvanceSwift;
 			sourceTree = "<group>";
@@ -568,6 +571,7 @@
 				4D4F35A82D4BBFE600C095B5 /* AnimationCurve(Main).swift in Sources */,
 				4D2AE5F12D4D505800B42697 /* StepperDemo.swift in Sources */,
 				4DADC46A2D4B7F7600809279 /* Buttons.swift in Sources */,
+				4DF873CF2D5F92E80022B148 /* SubscribeDemo.swift in Sources */,
 				4D92A1AB2D52A68200EB74E6 /* AnyLayoutDemo.swift in Sources */,
 				4DADC4422D4A65DA00809279 /* SystemIcons.swift in Sources */,
 				4DADC43B2D4A658100809279 /* Gradient.swift in Sources */,
