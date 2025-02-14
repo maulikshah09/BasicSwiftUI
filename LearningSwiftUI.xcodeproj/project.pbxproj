@@ -120,6 +120,7 @@
 		4DD682C42D5CE3CE00D72B21 /* TypealiasDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD682C32D5CE3CE00D72B21 /* TypealiasDemo.swift */; };
 		4DD683272D5D172A00D72B21 /* EscapingDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD683262D5D172A00D72B21 /* EscapingDemo.swift */; };
 		4DF873CF2D5F92E80022B148 /* SubscribeDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF873CE2D5F92E80022B148 /* SubscribeDemo.swift */; };
+		4DF873D12D5FB46C0022B148 /* AlignmentGuideDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF873D02D5FB46C0022B148 /* AlignmentGuideDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -237,6 +238,7 @@
 		4DD682C32D5CE3CE00D72B21 /* TypealiasDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasDemo.swift; sourceTree = "<group>"; };
 		4DD683262D5D172A00D72B21 /* EscapingDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingDemo.swift; sourceTree = "<group>"; };
 		4DF873CE2D5F92E80022B148 /* SubscribeDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscribeDemo.swift; sourceTree = "<group>"; };
+		4DF873D02D5FB46C0022B148 /* AlignmentGuideDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlignmentGuideDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -383,6 +385,7 @@
 				4D5DF4C32D5919EE00DD252A /* AddSoundEffectDemo.swift */,
 				4D5DF4CA2D59214000DD252A /* HapticsDemo.swift */,
 				4D5DF4CC2D59277300DD252A /* LocalNotificationDemo.swift */,
+				4DF873D02D5FB46C0022B148 /* AlignmentGuideDemo.swift */,
 				4DD682C22D5CDBBF00D72B21 /* AdvanceSwift */,
 			);
 			path = LearningSwiftUI;
@@ -560,6 +563,7 @@
 				4D92A1AD2D532BD200EB74E6 /* ViewThatfitsDemo.swift in Sources */,
 				4D3D3DCA2D4CDA4C0041E451 /* ToolBarDemo(Main).swift in Sources */,
 				4D684A782D4DDD29009C33D5 /* TabBarView.swift in Sources */,
+				4DF873D12D5FB46C0022B148 /* AlignmentGuideDemo.swift in Sources */,
 				4DCE09872D57DB8700E1A953 /* GeometryReaderDemo.swift in Sources */,
 				4D6CDB602D4E598E001257D0 /* Onappear.swift in Sources */,
 				4DADC4502D4A88A600809279 /* Stacks.swift in Sources */,
