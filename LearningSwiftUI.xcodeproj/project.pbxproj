@@ -21,6 +21,8 @@
 		4D2AE5F52D4D5C9000B42697 /* DatePickerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5F42D4D5C9000B42697 /* DatePickerDemo.swift */; };
 		4D2AE5F72D4D61EE00B42697 /* PickerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5F62D4D61EE00B42697 /* PickerDemo.swift */; };
 		4D2AE5F92D4D69D600B42697 /* SegmentDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5F82D4D69D600B42697 /* SegmentDemo.swift */; };
+		4D32EF4B2D62190F001EBF70 /* ScrollViewPagingDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D32EF4A2D62190F001EBF70 /* ScrollViewPagingDemo.swift */; };
+		4D32EF4D2D622441001EBF70 /* ScrollViewPagingDemo2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D32EF4C2D622441001EBF70 /* ScrollViewPagingDemo2.swift */; };
 		4D3D3DC42D4CC9AD0041E451 /* ListDemo(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3D3DC32D4CC9AD0041E451 /* ListDemo(Main).swift */; };
 		4D3D3DC62D4CCE850041E451 /* NavigationStackDemo(Main)).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3D3DC52D4CCE840041E451 /* NavigationStackDemo(Main)).swift */; };
 		4D3D3DCA2D4CDA4C0041E451 /* ToolBarDemo(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3D3DC92D4CDA4C0041E451 /* ToolBarDemo(Main).swift */; };
@@ -139,6 +141,8 @@
 		4D2AE5F42D4D5C9000B42697 /* DatePickerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerDemo.swift; sourceTree = "<group>"; };
 		4D2AE5F62D4D61EE00B42697 /* PickerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerDemo.swift; sourceTree = "<group>"; };
 		4D2AE5F82D4D69D600B42697 /* SegmentDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentDemo.swift; sourceTree = "<group>"; };
+		4D32EF4A2D62190F001EBF70 /* ScrollViewPagingDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPagingDemo.swift; sourceTree = "<group>"; };
+		4D32EF4C2D622441001EBF70 /* ScrollViewPagingDemo2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPagingDemo2.swift; sourceTree = "<group>"; };
 		4D3D3DC32D4CC9AD0041E451 /* ListDemo(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ListDemo(Main).swift"; sourceTree = "<group>"; };
 		4D3D3DC52D4CCE840041E451 /* NavigationStackDemo(Main)).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NavigationStackDemo(Main)).swift"; sourceTree = "<group>"; };
 		4D3D3DC92D4CDA4C0041E451 /* ToolBarDemo(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToolBarDemo(Main).swift"; sourceTree = "<group>"; };
@@ -389,6 +393,8 @@
 				4D5DF4CC2D59277300DD252A /* LocalNotificationDemo.swift */,
 				4DF873D02D5FB46C0022B148 /* AlignmentGuideDemo.swift */,
 				4DF873D22D5FB9340022B148 /* VisualEffectDemo.swift */,
+				4D32EF4A2D62190F001EBF70 /* ScrollViewPagingDemo.swift */,
+				4D32EF4C2D622441001EBF70 /* ScrollViewPagingDemo2.swift */,
 				4DD682C22D5CDBBF00D72B21 /* AdvanceSwift */,
 			);
 			path = LearningSwiftUI;
@@ -517,6 +523,7 @@
 				4D2AE5ED2D4D478B00B42697 /* ToggleDemo.swift in Sources */,
 				4D87934E2D5E35B200CB3072 /* TimerDemo.swift in Sources */,
 				4D8793562D5E68A500CB3072 /* Timer5.swift in Sources */,
+				4D32EF4B2D62190F001EBF70 /* ScrollViewPagingDemo.swift in Sources */,
 				4DB185ED2D514F5800A41C94 /* ButtonStyleDemo.swift in Sources */,
 				4DADC4662D4B68D100809279 /* SafeArea.swift in Sources */,
 				4D3D3DCC2D4CFD110041E451 /* AlertView(Main).swift in Sources */,
@@ -540,6 +547,7 @@
 				4D4F35A42D4BACFA00C095B5 /* TurneryOperator.swift in Sources */,
 				4DADC45A2D4ABC6A00809279 /* ScrollViewDemo1.swift in Sources */,
 				4D5DF4CB2D59214000DD252A /* HapticsDemo.swift in Sources */,
+				4D32EF4D2D622441001EBF70 /* ScrollViewPagingDemo2.swift in Sources */,
 				4D8793502D5E393000CB3072 /* TimerDemo2.swift in Sources */,
 				4D87934A2D5E09A300CB3072 /* DownloadWithEscapingDemo.swift in Sources */,
 				4DCE09852D57D42700E1A953 /* ScrollViewReaderDemo.swift in Sources */,
@@ -742,7 +750,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -771,7 +779,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

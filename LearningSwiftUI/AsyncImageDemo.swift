@@ -33,7 +33,7 @@ struct AsyncImageDemo: View {
                         .scaledToFit()
                         .frame(width: 100,height: 100)
                         .cornerRadius(20)
-                case .failure(let error):
+                case .failure(_):
                     Image(systemName: "questionmark")
                         .font(.headline)
                  default:
