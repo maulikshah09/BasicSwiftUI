@@ -14,6 +14,7 @@
 		4D13B8322D4EA36E0028E258 /* EnviorementObjectDemo(Main).swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D13B8312D4EA36E0028E258 /* EnviorementObjectDemo(Main).swift */; };
 		4D15C3482D6334270062EF52 /* FIleManger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D15C3472D6334270062EF52 /* FIleManger.swift */; };
 		4D15C34A2D63BE370062EF52 /* FileManagerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D15C3492D63BE370062EF52 /* FileManagerDemo.swift */; };
+		4D15C34C2D63D1CB0062EF52 /* CatchDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D15C34B2D63D1CB0062EF52 /* CatchDemo.swift */; };
 		4D2AE5E92D4D3A6D00B42697 /* TextFieldDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5E82D4D3A6D00B42697 /* TextFieldDemo.swift */; };
 		4D2AE5EB2D4D437A00B42697 /* TextEditorDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5EA2D4D437A00B42697 /* TextEditorDemo.swift */; };
 		4D2AE5ED2D4D478B00B42697 /* ToggleDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2AE5EC2D4D478B00B42697 /* ToggleDemo.swift */; };
@@ -138,6 +139,7 @@
 		4D13B8312D4EA36E0028E258 /* EnviorementObjectDemo(Main).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EnviorementObjectDemo(Main).swift"; sourceTree = "<group>"; };
 		4D15C3472D6334270062EF52 /* FIleManger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FIleManger.swift; sourceTree = "<group>"; };
 		4D15C3492D63BE370062EF52 /* FileManagerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerDemo.swift; sourceTree = "<group>"; };
+		4D15C34B2D63D1CB0062EF52 /* CatchDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatchDemo.swift; sourceTree = "<group>"; };
 		4D2AE5E82D4D3A6D00B42697 /* TextFieldDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldDemo.swift; sourceTree = "<group>"; };
 		4D2AE5EA2D4D437A00B42697 /* TextEditorDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorDemo.swift; sourceTree = "<group>"; };
 		4D2AE5EC2D4D478B00B42697 /* ToggleDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleDemo.swift; sourceTree = "<group>"; };
@@ -407,6 +409,7 @@
 				4D32EFCD2D62776E001EBF70 /* AccebilityVoiceDemo.swift */,
 				4D15C3472D6334270062EF52 /* FIleManger.swift */,
 				4D15C3492D63BE370062EF52 /* FileManagerDemo.swift */,
+				4D15C34B2D63D1CB0062EF52 /* CatchDemo.swift */,
 				4DD682C22D5CDBBF00D72B21 /* AdvanceSwift */,
 			);
 			path = LearningSwiftUI;
@@ -539,6 +542,7 @@
 				4D8793562D5E68A500CB3072 /* Timer5.swift in Sources */,
 				4D32EF4B2D62190F001EBF70 /* ScrollViewPagingDemo.swift in Sources */,
 				4DB185ED2D514F5800A41C94 /* ButtonStyleDemo.swift in Sources */,
+				4D15C34C2D63D1CB0062EF52 /* CatchDemo.swift in Sources */,
 				4D15C3482D6334270062EF52 /* FIleManger.swift in Sources */,
 				4DADC4662D4B68D100809279 /* SafeArea.swift in Sources */,
 				4D3D3DCC2D4CFD110041E451 /* AlertView(Main).swift in Sources */,

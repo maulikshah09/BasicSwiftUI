@@ -99,7 +99,6 @@ class FileManagerViewModel : ObservableObject{
     
     init(){
         getImageFromAssetFolder()
-        
        // getImageFromFileManager()
     }
     
