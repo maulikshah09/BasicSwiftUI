@@ -26,3 +26,6 @@ struct MenuDemo: View {
             }}}
 }
 
+#Preview {
+    MenuDemo()
+}

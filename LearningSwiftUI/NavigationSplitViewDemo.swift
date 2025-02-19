@@ -29,7 +29,7 @@ struct NavigationSplitViewDemo: View {
                 //navigation link also u can use.
             }
             
-            // not work in iPhone
+            // not work in iPhone but work in ipad 
 //            List {
 //                ForEach(FoodCategory.allCases,id : \.rawValue){ categoy in
 //                    Button(categoy.rawValue.capitalized){

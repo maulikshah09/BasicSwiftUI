@@ -38,8 +38,6 @@ struct EnviorementObjectDemo: View {
                 }
             }
             .navigationTitle("iOS Devices")
-
-            
             .navigationDestination(for: String.self) { value in
                 if value == "FinalView" {
                     FinalView()

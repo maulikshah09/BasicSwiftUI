@@ -37,9 +37,10 @@ struct TextFieldDemo: View {
                         .foregroundStyle(.white)
                         .font(.headline)
                 }.disabled(!textisAppropriate())
-                
-                ForEach(dataArray,id: \.self) {data in
-                    Text(data)
+                List{
+                    ForEach(dataArray,id: \.self) {data in
+                        Text(data)
+                    }
                 }
                 Spacer()
             }

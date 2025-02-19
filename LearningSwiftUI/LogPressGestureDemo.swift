@@ -49,6 +49,8 @@ struct LogPressGestureDemo: View {
                             isSuccess.toggle()
                         }
                     }
+                
+                   
 
                 Text("Reset")
                     .foregroundStyle(.white)

@@ -12,7 +12,7 @@ struct TextEditorDemo: View {
     @State var savedText : String = ""
     var body: some View {
         NavigationStack {
-            
+
             VStack {
                 TextEditor(text: $textEditorText)
                     .frame(height: 250)

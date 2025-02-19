@@ -70,7 +70,6 @@
 		4D92A1AB2D52A68200EB74E6 /* AnyLayoutDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1AA2D52A68200EB74E6 /* AnyLayoutDemo.swift */; };
 		4D92A1AD2D532BD200EB74E6 /* ViewThatfitsDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1AC2D532BD200EB74E6 /* ViewThatfitsDemo.swift */; };
 		4D92A1AF2D5392EF00EB74E6 /* NavigationSplitViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1AE2D5392EF00EB74E6 /* NavigationSplitViewDemo.swift */; };
-		4D92A1B12D53A07100EB74E6 /* GridDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1B02D53A07100EB74E6 /* GridDemo.swift */; };
 		4D92A1B32D53B27C00EB74E6 /* GridViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1B22D53B27C00EB74E6 /* GridViewDemo.swift */; };
 		4D92A1B52D53CDDD00EB74E6 /* ContentUnavailableViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1B42D53CDDD00EB74E6 /* ContentUnavailableViewDemo.swift */; };
 		4D92A1B72D53D41200EB74E6 /* ControlGroupMenuDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D92A1B62D53D41200EB74E6 /* ControlGroupMenuDemo.swift */; };
@@ -195,7 +194,6 @@
 		4D92A1AA2D52A68200EB74E6 /* AnyLayoutDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyLayoutDemo.swift; sourceTree = "<group>"; };
 		4D92A1AC2D532BD200EB74E6 /* ViewThatfitsDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatfitsDemo.swift; sourceTree = "<group>"; };
 		4D92A1AE2D5392EF00EB74E6 /* NavigationSplitViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSplitViewDemo.swift; sourceTree = "<group>"; };
-		4D92A1B02D53A07100EB74E6 /* GridDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridDemo.swift; sourceTree = "<group>"; };
 		4D92A1B22D53B27C00EB74E6 /* GridViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewDemo.swift; sourceTree = "<group>"; };
 		4D92A1B42D53CDDD00EB74E6 /* ContentUnavailableViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavailableViewDemo.swift; sourceTree = "<group>"; };
 		4D92A1B62D53D41200EB74E6 /* ControlGroupMenuDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroupMenuDemo.swift; sourceTree = "<group>"; };
@@ -385,7 +383,6 @@
 				4D92A1AA2D52A68200EB74E6 /* AnyLayoutDemo.swift */,
 				4D92A1AC2D532BD200EB74E6 /* ViewThatfitsDemo.swift */,
 				4D92A1AE2D5392EF00EB74E6 /* NavigationSplitViewDemo.swift */,
-				4D92A1B02D53A07100EB74E6 /* GridDemo.swift */,
 				4D92A1B42D53CDDD00EB74E6 /* ContentUnavailableViewDemo.swift */,
 				4D92A1B62D53D41200EB74E6 /* ControlGroupMenuDemo.swift */,
 				4DCE097A2D570C3700E1A953 /* LogPressGestureDemo.swift */,
@@ -534,7 +531,6 @@
 				4DADC44E2D4A7D3100809279 /* Overlay(Main).swift in Sources */,
 				4D4F35A62D4BB03E00C095B5 /* AnimationDemo(Main).swift in Sources */,
 				4D92A1AF2D5392EF00EB74E6 /* NavigationSplitViewDemo.swift in Sources */,
-				4D92A1B12D53A07100EB74E6 /* GridDemo.swift in Sources */,
 				4DADC4582D4AB72900809279 /* ForEachLoop.swift in Sources */,
 				4D13B8322D4EA36E0028E258 /* EnviorementObjectDemo(Main).swift in Sources */,
 				4D2AE5ED2D4D478B00B42697 /* ToggleDemo.swift in Sources */,

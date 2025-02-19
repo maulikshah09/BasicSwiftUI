@@ -17,14 +17,27 @@ struct NavigationStackDemo: View {
             ScrollView{
                 VStack(spacing: 40){
                     ForEach(fruits, id: \.self) { fruit in
+                        
+                        // Not direct way it call navigation destination
                         NavigationLink(value: fruit){
                             Text(fruit)
                         }
+                        
+                        
+                        
+                        // Direct way
+//                        NavigationLink(fruit){
+//                            Text("Another screen \(fruit)")
+//                        }
                     }
                     
                     ForEach(0..<10) { x in
-                        NavigationLink(value: x) {
-                            Text("Click Me : \(x)")
+//                        NavigationLink(value: x) {
+//                            Text("Click Me : \(x)")
+//                        }
+                        
+                        NavigationLink("Click Me : \(x)") {
+                            MySecondScreen(value: x)
                         }
                     }
                 }
